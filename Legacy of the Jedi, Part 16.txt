@@ -1,0 +1,272 @@
+Chapter 16
+
+They spent the night in Cilia's hiding place, a safe house on the outskirts of the city. Cilia disappeared into an inner room, and Obi-Wan and Qui-Gon were left to share floor space in a small, bare room painted a surprising pink. They laid out their sleeprolls and settled down on the hard floor.
+
+"Master," Obi-Wan murmured, "should we contact the Council?"
+
+"Why?" Qui-Gon asked.
+
+"Well, we're about to break into another planet's government building and steal state secrets," Obi-Wan said. "Master Windu can get touchy about things like that."
+
+"Precisely why we shouldn't bother him. I'll speak to the Council after the mission is over. Don't worry, Obi-Wan. The Council doesn't have to know every move we make, nor do they want to. You worry too much."
+
+"You don't know what I'm thinking all the time," Obi-Wan growled.
+
+"Not all the time," Qui-Gon said "But at this moment I do."
+
+"What am I thinking, then?"
+
+"You are thinking about that turnover at the cantina and wishing you'd had time to finish it."
+
+Obi-Wan groaned and turned his face into his sleep-roll. "I'm too hungry to argue. I'm going to sleep."
+
+Qui-Gon smiled into the darkness. Obi-Wan's breathing grew steady, and soon he had dropped off into sleep.
+
+Qui-Gon rolled himself tighter in his blanket and stared at the ceiling. Flakes of paint had peeled off the surface, revealing a dark undercoat somewhere between brown and green. He had forged his own path apart from Dooku, but there were some lessons he had kept. A certain independence from the Council made things easier on a mission. Afterward was another story. Obi-Wan was right. The Council would not be happy they had joined Cilia's raid.
+
+Qui-Gon was impressed by the organization of the resistance. Cilia had arranged transport for the team and had even obtained worker identification tags from the Defense and Offense Ministry of Delaluna.
+
+"You must have been planning this for some time," Qui-Gon said.
+
+Cilia nodded as she climbed into the transport. "I planned it from prison. I was tired of peaceful protest. We need to strike one blow - and win."
+
+"How did you communicate with your group?" Qui-Gon asked. "Your husband said you had no visitors in prison."
+
+"The resistance has many friends," Cilia said, setting the coordinates. "There was a guard at the Guardian prison who smuggled in messages. He had joined the Guardians and became disillusioned. He said there were others like him. That's why I have hope."
+
+The transport lifted off and streaked toward the moon of Delaluna. The journey wasn't long, and soon they had exited the craft at the landing platform outside the capital city of Levan.
+
+Cilia had kept the group small. In addition to the Jedi, there was a security expert named Stephin and a weapons specialist named Aeran.
+
+Their passes worked, which eliminated one of Qui-Gon's worries. The ministry was a bustling workplace, and they didn't attract any attention as they walked through the halls.
+
+Cilia had memorized the layout. She led them onto a turbolift and down a long hallway into a separate wing of the building.
+
+"I got the layout from a friend," she told Qui-Gon. "There are also those on Delaluna who don't like this situation. She passed along the blueprints to Stephin."
+
+They reached the Weapons Development wing. Cilia stopped. She swiped her identification card, but the doors did not open.
+
+"Stephin?"
+
+"It's supposed to be card entry only," Stephin said, stepping forward.
+
+Qui-Gon had taken in the situation in a glance. "It's now retinal and daily code."
+
+"Daily code?" Stephin shook his head. "We're sunk. I can crack it but it would take hours. Plus I don't have a mainframe on me."
+
+Qui-Gon admired Cilia's coolness. She did not show her exasperation. Her skin seemed to tighten over the sharp cheekbones. "We're here," she said. "I'm not leaving without those plans. We have to find another way."
+
+"We don't necessarily have to get into the secure wing ourselves," Qui-Gon said. "Not if we can get in through a computer."
+
+Cilia looked at him, interested. "How?"
+
+"We need to go to the only one who has access to all files and documents in the system," Qui-Gon answered.
+
+"The director," Cilia supplied. "Of course. I don't know what kind of security he has, though."
+
+"Let's find out." Qui-Gon indicated that Cilia lead the way.
+
+They returned to the main wing of the Ministry. The director's office was behind a frosted panel. An assistant sat behind a desk. Beyond him was another door.
+
+"No doubt the assistant has a panic button if we try to force our way in," Stephin said. "And we have no way of knowing if the director is in his office or not."
+
+They walked on, anxious to avoid attention. At the end of the hallway, Cilia frowned. "We have to get both of them out of that office. We need a diversion."
+
+"I think we can supply that," Qui-Gon said, beckoning to Obi-Wan.
+
+They turned off from the others. Ahead, down a side hallway, Qui-Gon had already seen what he was looking for - the office for Internal Security.
+
+"What are we doing?" Obi-Wan murmured.
+
+"You are a new employee," Qui-Gon told him. "Just be as confusing as possible and leave the rest to me."
+
+What Qui-Gon had found was that security officers in corporations or government offices were all basically the same in one respect. They were all afraid of being dismissed.
+
+He strode in and scanned the room. Security screens lined two walls, and the tech equipment panel was as big as the room. Just as he'd hoped, there was only one technician there. A burly man rose from where he was idly playing a one-handed game of sabaac.
+
+"Thought I'd walk him over," Qui-Gon said, indicating Obi-Wan. "Your new employee. Clearance from the top."
+
+"Whoa, hang on, slick," the burly man said. "Just who do you think you are?"
+
+"Security consultant from Constant Industries," Qui-Gon said. "I guess the director didn't tell you I was hired."
+
+The burly man looked a little uncertain. "Credentials?"
+
+Qui-Gon flashed his identification badge. "Look it up on the computer. Or call the director's office."
+
+"I'm a secured weapons surveillance expert," Obi-Wan explained. "Trained at the tech institute? I'm supposed to monitor the in-house systems and coordinate the armed-response team."
+
+"Wait a second. I'm the head of in-house systems," the burly man said.
+
+Obi-Wan shrugged and looked at Qui-Gon.
+
+"Not anymore, I guess," Qui-Gon said. "Let's take a look at what you've got here."
+
+"Now, wait a second," the man said. "You can't come in here and - "
+
+"Right, right, you're absolutely right. The security drill is coming up. We're supposed to monitor that closely."
+
+"We're not scheduled for a security drill."
+
+"You'd better check that," Obi-Wan said. "There was a test system override and a cross-tech flareup with a monitor glitch that fried the subsystem. Let me show you." He leaned over the panel.
+
+"You can't touch that!"
+
+"Wait a second. You didn't set the security drill?" Qui-Gon took out his comlink. "I'd better notify the director.
+
+"Wait, wait."
+
+"I can take over," Obi-Wan said.
+
+"I'll do it!" the man said, roughly pushing Obi-Wan aside. He made several keystrokes, and an alarm sounded.
+
+"Security drill," a voice announced. "Please go to your stations."
+
+"Come on," Qui-Gon said to Obi-Wan. "We'd better monitor the procedure. It's bound to be sloppy."
+
+"But wait!" the burly man called. "What are your names?"
+
+Crowds of beings had spilled out into the hallways. Obviously used to security drills, they continued to chat as they moved slowly down the halls to the exits. Obi-Wan and Qui-Gon threaded through the crowd.
+
+Cilia was watching for them anxiously. "I'm assuming you did that," she said.
+
+"Yes. We'd better move forward or we'll look suspicious. Has anyone come out of the director's office?"
+
+"Not yet."
+
+"There they are," Obi-Wan said quietly.
+
+The door to the director's office opened, and several people filed out and headed for the exit.
+
+"Come on, let's go," Qui-Gon said.
+
+They left the stream of people and quickly slipped into the room.
+
+"I'd guess you have about three minutes or less," Qui-Gon told Stephin.
+
+Stephin didn't take the time to reply, but immediately entered the director's office and accessed his computer. He clicked keys quickly.
+
+"Can you crack it?" Cilia asked.
+
+"Hang on." Stephin's fingers flew. Qui-Gon was fairly adept at cracking computer security, but even he couldn't begin to follow Stephin's code.
+
+"I'm into his personal files," Stephin said. "Nothing out of the ordinary... whoa! Hold that transmission. I found the Annihilator file." He clicked a few keys. "This is strange. You'd think there'd be a number of files, but there's only one." A holofile appeared. "It's subtitled Misinformation," he said. "Odd, don't you think?"
+
+Cilia and Qui-Gon bent in front of Stephin to read the file while Aeran peered over their heads. Obi-Wan stood lookout.
+
+Qui-Gon and Cilia's eyes met. "Do you think it's true?" she whispered.
+
+"I think so," Qui-Gon said. "It's incredible, but it makes sense."
+
+"I don't believe this," Aeran said slowly.
+
+"What?" Stephin asked impatiently. Their heads were blocking the file.
+
+"You know that awesome weapon capable of wiping out our entire civilization?" Cilia asked. "It doesn't exist. There is no Annihilator."
+
+"What? How can that be?" Stephin exclaimed.
+
+"This is a record of correspondence between the director and the ruler of Delaluna," Cilia explained as she scanned the file. "The Ministry Director has tracked a rumor that Delaluna has developed a fearsome weapon. He admits this is untrue, but suggests they take advantage of the rumor."
+
+"Why quash it?" Qui-Gon said. "It will help them with security if planets think they are too strong to attack."
+
+"They know that Junction 5 once looked at them and thought of colonization," Aeran filled in. "So why should they let their enemy know they are vulnerable?"
+
+Cilia jackknifed erect, her dark eyes blazing. "Do you see what this means? If there's no weapon, there's no need for the Guardians to exist! We won't have to fight them, they'll simply disband!"
+
+Qui-Gon was about to speak, but Obi-Wan signaled him.
+
+"Guard droids approaching," he said. "Someone must know we're here."
+
+"We must escape," Qui-Gon told the others. "If we are captured here, the news might never get out."
+
+Cilia reached for her blaster. "We're ready."
+
+Chapter17
+
+The droids on Delaluna were small, airborne, and quick, equipped with paralyzing darts and blasters. Qui-Gon did not recognize the model, but within seconds he had estimated velocity, path, and blaster range.
+
+He needed to protect the group. Cilia and Aeran were adept and fast, but Stephin was obviously not trained with weapons. Still, Qui-Gon also had to make sure they had proof that the Annihilator didn't exist.
+
+Obi-Wan must have had the same thought. He deflected blaster fire from the droids and leaped in front of Qui-Gon as three droids headed for him. Qui-Gon reached over and hit "copy" on the computer console. FILE COPIED flashed on screen. He reached out to extract the disk just as two droids headed toward him, flanking him on either side.
+
+Obi-Wan moved before Qui-Gon could react. He jumped in the midst of the heavy attack, his lightsaber a constant arc of movement as he deflected the barrage of blaster fire. Qui-Gon grabbed the disk and tucked it into his utility belt, then gave a backhanded sweep with his lightsaber that cut a droid in two and sent it crashing in a battered heap of twisted metal and fused circuits.
+
+Stephin had taken refuge behind a desk and emerged to spray blaster fire in a random pattern that only occasionally hit an airborne droid. Cilia and Aeran worked back-to-back, covering each other as they moved toward the door, trusting the Jedi to take care of the bulk of the droids.
+
+Obi-Wan launched himself over a desk, striking out at one droid with a carefully aimed kick that sent it crashing against the wall, splitting it into pieces. At the same time he swiped through another. Qui-Gon took out two droids with one swift stroke and moved to get Stephin as Cilia and Aeran took out two new droids buzzing through the doorway.
+
+"There they are!" the security officer shouted, pointing at Obi-Wan and Qui-Gon.
+
+"Time to go, Padawan," Qui-Gon said. He pushed Stephin in front of him, turning to deflect a new spray of blaster fire from behind.
+
+Obi-Wan moved to take out a droid and landed in the doorway, lightsaber slashing. The security officer stepped back, unwilling to engage. He expected the droids to do his fighting for him.
+
+With a Force push, Qui-Gon sent the officer flying. The man slumped on the floor, dazed and unwilling to get up.
+
+"There's an emergency exit this way," Cilia said, jerking her chin toward a side corridor. "It should be open, since we're in the middle of a drill."
+
+Workers were beginning to stream back into the building. They took advantage of the confusion by separating and melting into the crowd. Qui-Gon and Obi-Wan followed Cilia as her slight figure weaved through the crowd, heading purposefully toward the exit.
+
+They stepped out. The sky had darkened and was threatening a hard rain. A few drops pattered against the building.
+
+Ahead in the dark sky Qui-Gon saw a light. It was moving fast, traveling far beneath the clouds.
+
+"Security vehicle," he said tersely. "We'd better get to our ship."
+
+Because of the rain, many pedestrians had moved to the sheltered walkways that hugged the buildings and shops. A large canopy overhead blocked out the downpour as it began. Qui-Gon and the others hurried along this path.
+
+The overhang protected him from the ship above. The crowds acted as further camouflage. Their ship wasn't far. They climbed inside and Cilia started up the engines. They shot into the dark sky, streaking toward Junction 5.
+
+Cilia let out a whoop of triumph. "We did it. We did it!"
+
+Stephin shook his head. "I still can't believe there is no Annihilator."
+
+"This is all we need to end this reign of terror," Cilia said. "We can go straight to Minister Ciran Ern and tell him that the Annihilator is a hoax. He'll disband the Guardians."
+
+"We can free our citizens from fear and terror," Aeran said. "It is almost too much to believe."
+
+"I suggest that before you do anything, you ask a most important question," Qui-Gon said. "Rumors don't arise out of the air. If the Annihilator is a fabrication, who made it up?"
+
+The others paused.
+
+"Does it matter who made it up?" Aeran asked.
+
+"I'm afraid it matters very much," Qui-Gon said softly. "Let me ask another question. When did Lorian Nod come to power?"
+
+"Eight years ago," Cilia answered.
+
+"And the memos dated back - "
+
+Cilia's face changed. The happy flush drained away, and she grew pale. "Nine years," she said.
+
+"And who benefited the most from the Annihilator?"
+
+Cilia's face hardened. "The Guardians. They seized control." She looked at him shrewdly. "So you think Lorian Nod created the rumor."
+
+Qui-Gon nodded. "I do. It is a bloodless grab for power. Create something the population fears enough, and they will hand over control to whoever appears with a solution."
+
+"Yes, at first Lorian appeared to be our protector," Aeran said.
+
+"Ciran Ern is said to be a puppet of Lorian Nod's," Cilia said.
+
+"What makes you think that he would allow the truth to get out?" Qui-Gon asked. "He has much to fear from Lorian, and Lorian will certainly find out. I guarantee that you will be denounced as crazy or as a spy, and be thrown into prison again."
+
+"So what can we do?" Stephin asked.
+
+"You must bypass the rulers and tell the people," Qui-Gon said.
+
+"Impossible," Aeran said. "The Guardians control all communications."
+
+"That is what makes it possible," Qui-Gon replied after a moment's pause. "We must get control of that system. We must discover how it works and where it is."
+
+"I already know how it works," Stephin said. "I was part of the original design team. The central control is within the Guardians compound. It's impossible to break in."
+
+Cilia nodded. "The Guardian compound is way out of my league. The security is flawless."
+
+"No security is flawless," Qui-Gon said. "I can guarantee one way to get inside."
+
+The others looked at him. Obi-Wan smiled. He already knew the answer.
+
+"We must get arrested," Qui-Gon said.
+

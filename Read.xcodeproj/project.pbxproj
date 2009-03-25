@@ -1,0 +1,1231 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* ReadAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* ReadAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		2899E5220DE3E06400AC0155 /* ReadViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* ReadViewController.xib */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		28D7ACF80DDB3853001CB0EB /* ReadViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* ReadViewController.m */; };
+		709E40C60E783FB400292D37 /* OptionsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 709E40C50E783FB400292D37 /* OptionsViewController.m */; };
+		709E40D30E78400200292D37 /* OptionsView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 709E40D20E78400200292D37 /* OptionsView.xib */; };
+		70B105890EDA8348001AA3BD /* Interview_01.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B105670EDA8348001AA3BD /* Interview_01.txt */; };
+		70B1058A0EDA8348001AA3BD /* Interview_02.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B105680EDA8348001AA3BD /* Interview_02.txt */; };
+		70B1058B0EDA8348001AA3BD /* Interview_03.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B105690EDA8348001AA3BD /* Interview_03.txt */; };
+		70B1058C0EDA8348001AA3BD /* Interview_04.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B1056A0EDA8348001AA3BD /* Interview_04.txt */; };
+		70B1058D0EDA8348001AA3BD /* Interview_05.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B1056B0EDA8348001AA3BD /* Interview_05.txt */; };
+		70B1058E0EDA8348001AA3BD /* Interview_06.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B1056C0EDA8348001AA3BD /* Interview_06.txt */; };
+		70B1058F0EDA8348001AA3BD /* Interview_07.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B1056D0EDA8348001AA3BD /* Interview_07.txt */; };
+		70B105900EDA8348001AA3BD /* Interview_08.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B1056E0EDA8348001AA3BD /* Interview_08.txt */; };
+		70B105910EDA8348001AA3BD /* Interview_09.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B1056F0EDA8348001AA3BD /* Interview_09.txt */; };
+		70B105920EDA8348001AA3BD /* Interview_10.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B105700EDA8348001AA3BD /* Interview_10.txt */; };
+		70B105930EDA8348001AA3BD /* Interview_11.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B105710EDA8348001AA3BD /* Interview_11.txt */; };
+		70B105940EDA8348001AA3BD /* Interview_12.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B105720EDA8348001AA3BD /* Interview_12.txt */; };
+		70B105950EDA8348001AA3BD /* Interview_13.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B105730EDA8348001AA3BD /* Interview_13.txt */; };
+		70B105960EDA8348001AA3BD /* Interview_14.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B105740EDA8348001AA3BD /* Interview_14.txt */; };
+		70B105970EDA8348001AA3BD /* Interview_15.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B105750EDA8348001AA3BD /* Interview_15.txt */; };
+		70B105980EDA8348001AA3BD /* Interview_16.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B105760EDA8348001AA3BD /* Interview_16.txt */; };
+		70B105990EDA8348001AA3BD /* Interview_17.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B105770EDA8348001AA3BD /* Interview_17.txt */; };
+		70B1059A0EDA8348001AA3BD /* Interview_18.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B105780EDA8348001AA3BD /* Interview_18.txt */; };
+		70B1059B0EDA8348001AA3BD /* Interview_19.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B105790EDA8348001AA3BD /* Interview_19.txt */; };
+		70B1059C0EDA8348001AA3BD /* Interview_20.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B1057A0EDA8348001AA3BD /* Interview_20.txt */; };
+		70B1059D0EDA8348001AA3BD /* Interview_21.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B1057B0EDA8348001AA3BD /* Interview_21.txt */; };
+		70B1059E0EDA8348001AA3BD /* Interview_22.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B1057C0EDA8348001AA3BD /* Interview_22.txt */; };
+		70B1059F0EDA8348001AA3BD /* Interview_23.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B1057D0EDA8348001AA3BD /* Interview_23.txt */; };
+		70B105A00EDA8348001AA3BD /* Interview_24.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B1057E0EDA8348001AA3BD /* Interview_24.txt */; };
+		70B105A10EDA8348001AA3BD /* Interview_25.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B1057F0EDA8348001AA3BD /* Interview_25.txt */; };
+		70B105A20EDA8348001AA3BD /* Interview_26.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B105800EDA8348001AA3BD /* Interview_26.txt */; };
+		70B105A30EDA8348001AA3BD /* Interview_27.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B105810EDA8348001AA3BD /* Interview_27.txt */; };
+		70B105A40EDA8348001AA3BD /* Interview_28.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B105820EDA8348001AA3BD /* Interview_28.txt */; };
+		70B105A50EDA8348001AA3BD /* Interview_29.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B105830EDA8348001AA3BD /* Interview_29.txt */; };
+		70B105A60EDA8348001AA3BD /* Interview_30.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B105840EDA8348001AA3BD /* Interview_30.txt */; };
+		70B105A70EDA8348001AA3BD /* Interview_31.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B105850EDA8348001AA3BD /* Interview_31.txt */; };
+		70B105A80EDA8348001AA3BD /* Interview_32.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B105860EDA8348001AA3BD /* Interview_32.txt */; };
+		70B105A90EDA8348001AA3BD /* Interview_33.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B105870EDA8348001AA3BD /* Interview_33.txt */; };
+		70B105AA0EDA8348001AA3BD /* Interview_34.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70B105880EDA8348001AA3BD /* Interview_34.txt */; };
+		70D51CF20E6D1FDF00042B84 /* Darth Bane 2, Intro.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51CF10E6D1FDF00042B84 /* Darth Bane 2, Intro.txt */; };
+		70D51D0B0E6D1FEC00042B84 /* Darth Bane 2, Chapter 01.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51CF30E6D1FEC00042B84 /* Darth Bane 2, Chapter 01.txt */; };
+		70D51D0C0E6D1FEC00042B84 /* Darth Bane 2, Chapter 02.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51CF40E6D1FEC00042B84 /* Darth Bane 2, Chapter 02.txt */; };
+		70D51D0D0E6D1FEC00042B84 /* Darth Bane 2, Chapter 03.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51CF50E6D1FEC00042B84 /* Darth Bane 2, Chapter 03.txt */; };
+		70D51D0E0E6D1FEC00042B84 /* Darth Bane 2, Chapter 04.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51CF60E6D1FEC00042B84 /* Darth Bane 2, Chapter 04.txt */; };
+		70D51D0F0E6D1FEC00042B84 /* Darth Bane 2, Chapter 05.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51CF70E6D1FEC00042B84 /* Darth Bane 2, Chapter 05.txt */; };
+		70D51D100E6D1FEC00042B84 /* Darth Bane 2, Chapter 06.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51CF80E6D1FEC00042B84 /* Darth Bane 2, Chapter 06.txt */; };
+		70D51D110E6D1FEC00042B84 /* Darth Bane 2, Chapter 07.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51CF90E6D1FEC00042B84 /* Darth Bane 2, Chapter 07.txt */; };
+		70D51D120E6D1FEC00042B84 /* Darth Bane 2, Chapter 08.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51CFA0E6D1FEC00042B84 /* Darth Bane 2, Chapter 08.txt */; };
+		70D51D130E6D1FEC00042B84 /* Darth Bane 2, Chapter 09.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51CFB0E6D1FEC00042B84 /* Darth Bane 2, Chapter 09.txt */; };
+		70D51D140E6D1FEC00042B84 /* Darth Bane 2, Chapter 10.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51CFC0E6D1FEC00042B84 /* Darth Bane 2, Chapter 10.txt */; };
+		70D51D150E6D1FEC00042B84 /* Darth Bane 2, Chapter 11.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51CFD0E6D1FEC00042B84 /* Darth Bane 2, Chapter 11.txt */; };
+		70D51D160E6D1FEC00042B84 /* Darth Bane 2, Chapter 12.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51CFE0E6D1FEC00042B84 /* Darth Bane 2, Chapter 12.txt */; };
+		70D51D170E6D1FEC00042B84 /* Darth Bane 2, Chapter 13.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51CFF0E6D1FEC00042B84 /* Darth Bane 2, Chapter 13.txt */; };
+		70D51D180E6D1FEC00042B84 /* Darth Bane 2, Chapter 14.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51D000E6D1FEC00042B84 /* Darth Bane 2, Chapter 14.txt */; };
+		70D51D190E6D1FEC00042B84 /* Darth Bane 2, Chapter 15.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51D010E6D1FEC00042B84 /* Darth Bane 2, Chapter 15.txt */; };
+		70D51D1A0E6D1FEC00042B84 /* Darth Bane 2, Chapter 16.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51D020E6D1FEC00042B84 /* Darth Bane 2, Chapter 16.txt */; };
+		70D51D1B0E6D1FEC00042B84 /* Darth Bane 2, Chapter 17.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51D030E6D1FEC00042B84 /* Darth Bane 2, Chapter 17.txt */; };
+		70D51D1C0E6D1FEC00042B84 /* Darth Bane 2, Chapter 18.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51D040E6D1FEC00042B84 /* Darth Bane 2, Chapter 18.txt */; };
+		70D51D1D0E6D1FEC00042B84 /* Darth Bane 2, Chapter 19.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51D050E6D1FEC00042B84 /* Darth Bane 2, Chapter 19.txt */; };
+		70D51D1E0E6D1FEC00042B84 /* Darth Bane 2, Chapter 20.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51D060E6D1FEC00042B84 /* Darth Bane 2, Chapter 20.txt */; };
+		70D51D1F0E6D1FEC00042B84 /* Darth Bane 2, Chapter 21.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51D070E6D1FEC00042B84 /* Darth Bane 2, Chapter 21.txt */; };
+		70D51D200E6D1FEC00042B84 /* Darth Bane 2, Chapter 22.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51D080E6D1FEC00042B84 /* Darth Bane 2, Chapter 22.txt */; };
+		70D51D210E6D1FEC00042B84 /* Darth Bane 2, Chapter 23.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51D090E6D1FEC00042B84 /* Darth Bane 2, Chapter 23.txt */; };
+		70D51D220E6D1FEC00042B84 /* Darth Bane 2, Chapter 24.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70D51D0A0E6D1FEC00042B84 /* Darth Bane 2, Chapter 24.txt */; };
+		70F4F3A50E5CF0D6007DBDAC /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 70F4F3A40E5CF0D6007DBDAC /* CoreGraphics.framework */; };
+		70F4F3EF0E5CF554007DBDAC /* Star Wars, Cloak of Deception.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70F4F3E60E5CF554007DBDAC /* Star Wars, Cloak of Deception.txt */; };
+		70F4F3F70E5CF554007DBDAC /* The Chronicles of Narnia.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70F4F3EE0E5CF554007DBDAC /* The Chronicles of Narnia.txt */; };
+		70F4F4220E5CF7AE007DBDAC /* BookViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 70F4F4210E5CF7AE007DBDAC /* BookViewController.m */; };
+		70F4F43C0E5CF86B007DBDAC /* BookView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 70F4F43B0E5CF86B007DBDAC /* BookView.xib */; };
+		70F4F4F10E5CFF43007DBDAC /* library.png in Resources */ = {isa = PBXBuildFile; fileRef = 70F4F4F00E5CFF43007DBDAC /* library.png */; };
+		70F4F4FD0E5CFFBB007DBDAC /* biR2bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 70F4F4FC0E5CFFBB007DBDAC /* biR2bg.jpg */; };
+		70FDA5120E9D713C00D02EE5 /* Nutcracker_Coup_01.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FDA5080E9D713C00D02EE5 /* Nutcracker_Coup_01.txt */; };
+		70FDA5130E9D713C00D02EE5 /* Nutcracker_Coup_02.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FDA5090E9D713C00D02EE5 /* Nutcracker_Coup_02.txt */; };
+		70FDA5140E9D713C00D02EE5 /* Nutcracker_Coup_03.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FDA50A0E9D713C00D02EE5 /* Nutcracker_Coup_03.txt */; };
+		70FDA5150E9D713C00D02EE5 /* Nutcracker_Coup_04.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FDA50B0E9D713C00D02EE5 /* Nutcracker_Coup_04.txt */; };
+		70FDA5160E9D713C00D02EE5 /* Nutcracker_Coup_05.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FDA50C0E9D713C00D02EE5 /* Nutcracker_Coup_05.txt */; };
+		70FDA5170E9D713C00D02EE5 /* Nutcracker_Coup_06.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FDA50D0E9D713C00D02EE5 /* Nutcracker_Coup_06.txt */; };
+		70FDA5180E9D713C00D02EE5 /* Nutcracker_Coup_07.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FDA50E0E9D713C00D02EE5 /* Nutcracker_Coup_07.txt */; };
+		70FDA5190E9D713C00D02EE5 /* Nutcracker_Coup_08.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FDA50F0E9D713C00D02EE5 /* Nutcracker_Coup_08.txt */; };
+		70FDA51A0E9D713C00D02EE5 /* Nutcracker_Coup_09.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FDA5100E9D713C00D02EE5 /* Nutcracker_Coup_09.txt */; };
+		70FDA51B0E9D713C00D02EE5 /* Nutcracker_Coup_10.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FDA5110E9D713C00D02EE5 /* Nutcracker_Coup_10.txt */; };
+		70FF21F40E6482DD00ABE8F6 /* Darth Bane, Chapter 01.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21D50E6482DD00ABE8F6 /* Darth Bane, Chapter 01.txt */; };
+		70FF21F50E6482DD00ABE8F6 /* Darth Bane, Chapter 02.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21D60E6482DD00ABE8F6 /* Darth Bane, Chapter 02.txt */; };
+		70FF21F60E6482DD00ABE8F6 /* Darth Bane, Chapter 03.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21D70E6482DD00ABE8F6 /* Darth Bane, Chapter 03.txt */; };
+		70FF21F70E6482DD00ABE8F6 /* Darth Bane, Chapter 04.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21D80E6482DD00ABE8F6 /* Darth Bane, Chapter 04.txt */; };
+		70FF21F80E6482DD00ABE8F6 /* Darth Bane, Chapter 05.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21D90E6482DD00ABE8F6 /* Darth Bane, Chapter 05.txt */; };
+		70FF21F90E6482DD00ABE8F6 /* Darth Bane, Chapter 06.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21DA0E6482DD00ABE8F6 /* Darth Bane, Chapter 06.txt */; };
+		70FF21FA0E6482DD00ABE8F6 /* Darth Bane, Chapter 07.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21DB0E6482DD00ABE8F6 /* Darth Bane, Chapter 07.txt */; };
+		70FF21FB0E6482DD00ABE8F6 /* Darth Bane, Chapter 08.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21DC0E6482DD00ABE8F6 /* Darth Bane, Chapter 08.txt */; };
+		70FF21FC0E6482DD00ABE8F6 /* Darth Bane, Chapter 09.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21DD0E6482DD00ABE8F6 /* Darth Bane, Chapter 09.txt */; };
+		70FF21FD0E6482DD00ABE8F6 /* Darth Bane, Chapter 10.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21DE0E6482DD00ABE8F6 /* Darth Bane, Chapter 10.txt */; };
+		70FF21FE0E6482DD00ABE8F6 /* Darth Bane, Chapter 11.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21DF0E6482DD00ABE8F6 /* Darth Bane, Chapter 11.txt */; };
+		70FF21FF0E6482DD00ABE8F6 /* Darth Bane, Chapter 12.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21E00E6482DD00ABE8F6 /* Darth Bane, Chapter 12.txt */; };
+		70FF22000E6482DD00ABE8F6 /* Darth Bane, Chapter 13.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21E10E6482DD00ABE8F6 /* Darth Bane, Chapter 13.txt */; };
+		70FF22010E6482DD00ABE8F6 /* Darth Bane, Chapter 14.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21E20E6482DD00ABE8F6 /* Darth Bane, Chapter 14.txt */; };
+		70FF22020E6482DD00ABE8F6 /* Darth Bane, Chapter 15.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21E30E6482DD00ABE8F6 /* Darth Bane, Chapter 15.txt */; };
+		70FF22030E6482DD00ABE8F6 /* Darth Bane, Chapter 16.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21E40E6482DD00ABE8F6 /* Darth Bane, Chapter 16.txt */; };
+		70FF22040E6482DD00ABE8F6 /* Darth Bane, Chapter 17.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21E50E6482DD00ABE8F6 /* Darth Bane, Chapter 17.txt */; };
+		70FF22050E6482DD00ABE8F6 /* Darth Bane, Chapter 18.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21E60E6482DD00ABE8F6 /* Darth Bane, Chapter 18.txt */; };
+		70FF22060E6482DD00ABE8F6 /* Darth Bane, Chapter 20.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21E70E6482DD00ABE8F6 /* Darth Bane, Chapter 20.txt */; };
+		70FF22070E6482DD00ABE8F6 /* Darth Bane, Chapter 21.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21E80E6482DD00ABE8F6 /* Darth Bane, Chapter 21.txt */; };
+		70FF22080E6482DD00ABE8F6 /* Darth Bane, Chapter 22.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21E90E6482DD00ABE8F6 /* Darth Bane, Chapter 22.txt */; };
+		70FF22090E6482DD00ABE8F6 /* Darth Bane, Chapter 23.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21EA0E6482DD00ABE8F6 /* Darth Bane, Chapter 23.txt */; };
+		70FF220A0E6482DD00ABE8F6 /* Darth Bane, Chapter 24.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21EB0E6482DD00ABE8F6 /* Darth Bane, Chapter 24.txt */; };
+		70FF220B0E6482DD00ABE8F6 /* Darth Bane, Chapter 25.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21EC0E6482DD00ABE8F6 /* Darth Bane, Chapter 25.txt */; };
+		70FF220C0E6482DD00ABE8F6 /* Darth Bane, Chapter 26.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21ED0E6482DD00ABE8F6 /* Darth Bane, Chapter 26.txt */; };
+		70FF220D0E6482DD00ABE8F6 /* Darth Bane, Chapter 27.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21EE0E6482DD00ABE8F6 /* Darth Bane, Chapter 27.txt */; };
+		70FF220E0E6482DD00ABE8F6 /* Darth Bane, Chapter 28.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21EF0E6482DD00ABE8F6 /* Darth Bane, Chapter 28.txt */; };
+		70FF220F0E6482DD00ABE8F6 /* Darth Bane, Chapter 29.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21F00E6482DD00ABE8F6 /* Darth Bane, Chapter 29.txt */; };
+		70FF22100E6482DD00ABE8F6 /* Darth Bane, Chapter 30.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21F10E6482DD00ABE8F6 /* Darth Bane, Chapter 30.txt */; };
+		70FF22110E6482DD00ABE8F6 /* Darth Bane, Chapter 31.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21F20E6482DD00ABE8F6 /* Darth Bane, Chapter 31.txt */; };
+		70FF22120E6482DD00ABE8F6 /* Darth Bane, Intro.txt in Resources */ = {isa = PBXBuildFile; fileRef = 70FF21F30E6482DD00ABE8F6 /* Darth Bane, Intro.txt */; };
+		B3C0C5BE0F7201F200ED054D /* Death Star, 01.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C58C0F7201EC00ED054D /* Death Star, 01.txt */; };
+		B3C0C5BF0F7201F200ED054D /* Death Star, 02.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C58D0F7201EC00ED054D /* Death Star, 02.txt */; };
+		B3C0C5C00F7201F200ED054D /* Death Star, 03.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C58E0F7201EC00ED054D /* Death Star, 03.txt */; };
+		B3C0C5C10F7201F200ED054D /* Death Star, 04.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C58F0F7201EC00ED054D /* Death Star, 04.txt */; };
+		B3C0C5C20F7201F200ED054D /* Death Star, 05.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5900F7201EC00ED054D /* Death Star, 05.txt */; };
+		B3C0C5C30F7201F200ED054D /* Death Star, 06.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5910F7201ED00ED054D /* Death Star, 06.txt */; };
+		B3C0C5C40F7201F200ED054D /* Death Star, 07.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5920F7201ED00ED054D /* Death Star, 07.txt */; };
+		B3C0C5C50F7201F200ED054D /* Death Star, 08.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5930F7201ED00ED054D /* Death Star, 08.txt */; };
+		B3C0C5C60F7201F200ED054D /* Death Star, 09.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5940F7201ED00ED054D /* Death Star, 09.txt */; };
+		B3C0C5C70F7201F200ED054D /* Death Star, 10.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5950F7201ED00ED054D /* Death Star, 10.txt */; };
+		B3C0C5C80F7201F200ED054D /* Death Star, 11.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5960F7201ED00ED054D /* Death Star, 11.txt */; };
+		B3C0C5C90F7201F200ED054D /* Death Star, 12.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5970F7201ED00ED054D /* Death Star, 12.txt */; };
+		B3C0C5CA0F7201F200ED054D /* Death Star, 13.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5980F7201ED00ED054D /* Death Star, 13.txt */; };
+		B3C0C5CB0F7201F200ED054D /* Death Star, 14.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5990F7201EE00ED054D /* Death Star, 14.txt */; };
+		B3C0C5CC0F7201F200ED054D /* Death Star, 15.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C59A0F7201EE00ED054D /* Death Star, 15.txt */; };
+		B3C0C5CD0F7201F200ED054D /* Death Star, 16.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C59B0F7201EE00ED054D /* Death Star, 16.txt */; };
+		B3C0C5CE0F7201F200ED054D /* Death Star, 17.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C59C0F7201EE00ED054D /* Death Star, 17.txt */; };
+		B3C0C5CF0F7201F200ED054D /* Death Star, 18.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C59D0F7201EE00ED054D /* Death Star, 18.txt */; };
+		B3C0C5D00F7201F200ED054D /* Death Star, 19.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C59E0F7201EE00ED054D /* Death Star, 19.txt */; };
+		B3C0C5D10F7201F200ED054D /* Death Star, 20.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C59F0F7201EE00ED054D /* Death Star, 20.txt */; };
+		B3C0C5D20F7201F200ED054D /* Death Star, 21.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5A00F7201EE00ED054D /* Death Star, 21.txt */; };
+		B3C0C5D30F7201F200ED054D /* Death Star, 22.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5A10F7201EE00ED054D /* Death Star, 22.txt */; };
+		B3C0C5D40F7201F200ED054D /* Death Star, 23.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5A20F7201EF00ED054D /* Death Star, 23.txt */; };
+		B3C0C5D50F7201F200ED054D /* Death Star, 24.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5A30F7201EF00ED054D /* Death Star, 24.txt */; };
+		B3C0C5D60F7201F200ED054D /* Death Star, 25.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5A40F7201EF00ED054D /* Death Star, 25.txt */; };
+		B3C0C5D70F7201F200ED054D /* Heir to the Empire, 01.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5A50F7201EF00ED054D /* Heir to the Empire, 01.txt */; };
+		B3C0C5D80F7201F200ED054D /* Heir to the Empire, 02.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5A60F7201EF00ED054D /* Heir to the Empire, 02.txt */; };
+		B3C0C5D90F7201F200ED054D /* Heir to the Empire, 03.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5A70F7201EF00ED054D /* Heir to the Empire, 03.txt */; };
+		B3C0C5DA0F7201F200ED054D /* Heir to the Empire, 04.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5A80F7201EF00ED054D /* Heir to the Empire, 04.txt */; };
+		B3C0C5DB0F7201F200ED054D /* Heir to the Empire, 05.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5A90F7201EF00ED054D /* Heir to the Empire, 05.txt */; };
+		B3C0C5DC0F7201F200ED054D /* Heir to the Empire, 06.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5AA0F7201F000ED054D /* Heir to the Empire, 06.txt */; };
+		B3C0C5DD0F7201F200ED054D /* Heir to the Empire, 07.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5AB0F7201F000ED054D /* Heir to the Empire, 07.txt */; };
+		B3C0C5DE0F7201F200ED054D /* Heir to the Empire, 08.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5AC0F7201F000ED054D /* Heir to the Empire, 08.txt */; };
+		B3C0C5DF0F7201F200ED054D /* Heir to the Empire, 09.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5AD0F7201F000ED054D /* Heir to the Empire, 09.txt */; };
+		B3C0C5E00F7201F200ED054D /* Heir to the Empire, 10.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5AE0F7201F000ED054D /* Heir to the Empire, 10.txt */; };
+		B3C0C5E10F7201F200ED054D /* Heir to the Empire, 11.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5AF0F7201F000ED054D /* Heir to the Empire, 11.txt */; };
+		B3C0C5E20F7201F200ED054D /* Heir to the Empire, 12.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5B00F7201F000ED054D /* Heir to the Empire, 12.txt */; };
+		B3C0C5E30F7201F200ED054D /* Heir to the Empire, 13.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5B10F7201F100ED054D /* Heir to the Empire, 13.txt */; };
+		B3C0C5E40F7201F200ED054D /* Heir to the Empire, 14.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5B20F7201F100ED054D /* Heir to the Empire, 14.txt */; };
+		B3C0C5E50F7201F200ED054D /* Heir to the Empire, 15.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5B30F7201F100ED054D /* Heir to the Empire, 15.txt */; };
+		B3C0C5E60F7201F200ED054D /* Heir to the Empire, 16.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5B40F7201F100ED054D /* Heir to the Empire, 16.txt */; };
+		B3C0C5E70F7201F200ED054D /* Heir to the Empire, 17.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5B50F7201F100ED054D /* Heir to the Empire, 17.txt */; };
+		B3C0C5E80F7201F200ED054D /* Heir to the Empire, 18.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5B60F7201F100ED054D /* Heir to the Empire, 18.txt */; };
+		B3C0C5E90F7201F200ED054D /* Heir to the Empire, 19.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5B70F7201F100ED054D /* Heir to the Empire, 19.txt */; };
+		B3C0C5EA0F7201F200ED054D /* Heir to the Empire, 20.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5B80F7201F100ED054D /* Heir to the Empire, 20.txt */; };
+		B3C0C5EB0F7201F200ED054D /* Heir to the Empire, 21.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5B90F7201F200ED054D /* Heir to the Empire, 21.txt */; };
+		B3C0C5EC0F7201F200ED054D /* Heir to the Empire, 22.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5BA0F7201F200ED054D /* Heir to the Empire, 22.txt */; };
+		B3C0C5ED0F7201F200ED054D /* Heir to the Empire, 23.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5BB0F7201F200ED054D /* Heir to the Empire, 23.txt */; };
+		B3C0C5EE0F7201F200ED054D /* Heir to the Empire, 24.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5BC0F7201F200ED054D /* Heir to the Empire, 24.txt */; };
+		B3C0C5EF0F7201F200ED054D /* Heir to the Empire, 25.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3C0C5BD0F7201F200ED054D /* Heir to the Empire, 25.txt */; };
+		B3E521930F72946D006F85E3 /* Blood Ties, Book 01 Part 01.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E5217F0F72946D006F85E3 /* Blood Ties, Book 01 Part 01.txt */; };
+		B3E521940F72946D006F85E3 /* Blood Ties, Book 01 Part 02.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521800F72946D006F85E3 /* Blood Ties, Book 01 Part 02.txt */; };
+		B3E521950F72946D006F85E3 /* Blood Ties, Book 01 Part 03.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521810F72946D006F85E3 /* Blood Ties, Book 01 Part 03.txt */; };
+		B3E521960F72946D006F85E3 /* Blood Ties, Book 01 Part 04.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521820F72946D006F85E3 /* Blood Ties, Book 01 Part 04.txt */; };
+		B3E521970F72946D006F85E3 /* Blood Ties, Book 01 Part 05.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521830F72946D006F85E3 /* Blood Ties, Book 01 Part 05.txt */; };
+		B3E521980F72946D006F85E3 /* Blood Ties, Book 01 Part 06.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521840F72946D006F85E3 /* Blood Ties, Book 01 Part 06.txt */; };
+		B3E521990F72946D006F85E3 /* Blood Ties, Book 01 Part 07.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521850F72946D006F85E3 /* Blood Ties, Book 01 Part 07.txt */; };
+		B3E5219A0F72946D006F85E3 /* Blood Ties, Book 01 Part 08.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521860F72946D006F85E3 /* Blood Ties, Book 01 Part 08.txt */; };
+		B3E5219B0F72946D006F85E3 /* Blood Ties, Book 01 Part 09.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521870F72946D006F85E3 /* Blood Ties, Book 01 Part 09.txt */; };
+		B3E5219C0F72946D006F85E3 /* Blood Ties, Book 01 Part 10.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521880F72946D006F85E3 /* Blood Ties, Book 01 Part 10.txt */; };
+		B3E5219D0F72946D006F85E3 /* Blood Ties, Book 01 Part 11.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521890F72946D006F85E3 /* Blood Ties, Book 01 Part 11.txt */; };
+		B3E5219E0F72946D006F85E3 /* Blood Ties, Book 01 Part 12.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E5218A0F72946D006F85E3 /* Blood Ties, Book 01 Part 12.txt */; };
+		B3E5219F0F72946D006F85E3 /* Blood Ties, Book 01 Part 13.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E5218B0F72946D006F85E3 /* Blood Ties, Book 01 Part 13.txt */; };
+		B3E521A00F72946D006F85E3 /* Blood Ties, Book 01 Part 14.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E5218C0F72946D006F85E3 /* Blood Ties, Book 01 Part 14.txt */; };
+		B3E521A10F72946D006F85E3 /* Blood Ties, Book 01 Part 15.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E5218D0F72946D006F85E3 /* Blood Ties, Book 01 Part 15.txt */; };
+		B3E521A20F72946D006F85E3 /* Blood Ties, Book 01 Part 16.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E5218E0F72946D006F85E3 /* Blood Ties, Book 01 Part 16.txt */; };
+		B3E521A30F72946D006F85E3 /* Blood Ties, Book 01 Part 17.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E5218F0F72946D006F85E3 /* Blood Ties, Book 01 Part 17.txt */; };
+		B3E521A40F72946D006F85E3 /* Blood Ties, Book 01 Part 18.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521900F72946D006F85E3 /* Blood Ties, Book 01 Part 18.txt */; };
+		B3E521A50F72946D006F85E3 /* Blood Ties, Book 01 Part 19.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521910F72946D006F85E3 /* Blood Ties, Book 01 Part 19.txt */; };
+		B3E521A60F72946D006F85E3 /* Blood Ties, Book 01 Part 20.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521920F72946D006F85E3 /* Blood Ties, Book 01 Part 20.txt */; };
+		B3E521C00F729488006F85E3 /* Dead_Until_Dark_01.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521A70F729488006F85E3 /* Dead_Until_Dark_01.txt */; };
+		B3E521C10F729488006F85E3 /* Dead_Until_Dark_02.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521A80F729488006F85E3 /* Dead_Until_Dark_02.txt */; };
+		B3E521C20F729488006F85E3 /* Dead_Until_Dark_03.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521A90F729488006F85E3 /* Dead_Until_Dark_03.txt */; };
+		B3E521C30F729488006F85E3 /* Dead_Until_Dark_04.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521AA0F729488006F85E3 /* Dead_Until_Dark_04.txt */; };
+		B3E521C40F729488006F85E3 /* Dead_Until_Dark_05.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521AB0F729488006F85E3 /* Dead_Until_Dark_05.txt */; };
+		B3E521C50F729488006F85E3 /* Dead_Until_Dark_06.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521AC0F729488006F85E3 /* Dead_Until_Dark_06.txt */; };
+		B3E521C60F729488006F85E3 /* Dead_Until_Dark_07.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521AD0F729488006F85E3 /* Dead_Until_Dark_07.txt */; };
+		B3E521C70F729488006F85E3 /* Dead_Until_Dark_08.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521AE0F729488006F85E3 /* Dead_Until_Dark_08.txt */; };
+		B3E521C80F729488006F85E3 /* Dead_Until_Dark_09.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521AF0F729488006F85E3 /* Dead_Until_Dark_09.txt */; };
+		B3E521C90F729488006F85E3 /* Dead_Until_Dark_10.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521B00F729488006F85E3 /* Dead_Until_Dark_10.txt */; };
+		B3E521CA0F729488006F85E3 /* Dead_Until_Dark_11.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521B10F729488006F85E3 /* Dead_Until_Dark_11.txt */; };
+		B3E521CB0F729488006F85E3 /* Dead_Until_Dark_12.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521B20F729488006F85E3 /* Dead_Until_Dark_12.txt */; };
+		B3E521CC0F729488006F85E3 /* Dead_Until_Dark_13.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521B30F729488006F85E3 /* Dead_Until_Dark_13.txt */; };
+		B3E521CD0F729488006F85E3 /* Dead_Until_Dark_14.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521B40F729488006F85E3 /* Dead_Until_Dark_14.txt */; };
+		B3E521CE0F729488006F85E3 /* Dead_Until_Dark_15.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521B50F729488006F85E3 /* Dead_Until_Dark_15.txt */; };
+		B3E521CF0F729488006F85E3 /* Dead_Until_Dark_16.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521B60F729488006F85E3 /* Dead_Until_Dark_16.txt */; };
+		B3E521D00F729488006F85E3 /* Dead_Until_Dark_17.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521B70F729488006F85E3 /* Dead_Until_Dark_17.txt */; };
+		B3E521D10F729488006F85E3 /* Dead_Until_Dark_18.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521B80F729488006F85E3 /* Dead_Until_Dark_18.txt */; };
+		B3E521D20F729488006F85E3 /* Dead_Until_Dark_19.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521B90F729488006F85E3 /* Dead_Until_Dark_19.txt */; };
+		B3E521D30F729488006F85E3 /* Dead_Until_Dark_20.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521BA0F729488006F85E3 /* Dead_Until_Dark_20.txt */; };
+		B3E521D40F729488006F85E3 /* Dead_Until_Dark_21.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521BB0F729488006F85E3 /* Dead_Until_Dark_21.txt */; };
+		B3E521D50F729488006F85E3 /* Dead_Until_Dark_22.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521BC0F729488006F85E3 /* Dead_Until_Dark_22.txt */; };
+		B3E521D60F729488006F85E3 /* Dead_Until_Dark_23.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521BD0F729488006F85E3 /* Dead_Until_Dark_23.txt */; };
+		B3E521D70F729488006F85E3 /* Dead_Until_Dark_24.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521BE0F729488006F85E3 /* Dead_Until_Dark_24.txt */; };
+		B3E521D80F729488006F85E3 /* Dead_Until_Dark_25.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521BF0F729488006F85E3 /* Dead_Until_Dark_25.txt */; };
+		B3E521EC0F72949A006F85E3 /* Gardella, Book 1, 01.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521D90F72949A006F85E3 /* Gardella, Book 1, 01.txt */; };
+		B3E521ED0F72949A006F85E3 /* Gardella, Book 1, 02.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521DA0F72949A006F85E3 /* Gardella, Book 1, 02.txt */; };
+		B3E521EE0F72949A006F85E3 /* Gardella, Book 1, 03.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521DB0F72949A006F85E3 /* Gardella, Book 1, 03.txt */; };
+		B3E521EF0F72949A006F85E3 /* Gardella, Book 1, 04.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521DC0F72949A006F85E3 /* Gardella, Book 1, 04.txt */; };
+		B3E521F00F72949A006F85E3 /* Gardella, Book 1, 05.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521DD0F72949A006F85E3 /* Gardella, Book 1, 05.txt */; };
+		B3E521F10F72949A006F85E3 /* Gardella, Book 1, 06.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521DE0F72949A006F85E3 /* Gardella, Book 1, 06.txt */; };
+		B3E521F20F72949A006F85E3 /* Gardella, Book 1, 07.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521DF0F72949A006F85E3 /* Gardella, Book 1, 07.txt */; };
+		B3E521F30F72949A006F85E3 /* Gardella, Book 1, 08.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521E00F72949A006F85E3 /* Gardella, Book 1, 08.txt */; };
+		B3E521F40F72949A006F85E3 /* Gardella, Book 1, 09.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521E10F72949A006F85E3 /* Gardella, Book 1, 09.txt */; };
+		B3E521F50F72949A006F85E3 /* Gardella, Book 1, 10.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521E20F72949A006F85E3 /* Gardella, Book 1, 10.txt */; };
+		B3E521F60F72949A006F85E3 /* Gardella, Book 1, 11.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521E30F72949A006F85E3 /* Gardella, Book 1, 11.txt */; };
+		B3E521F70F72949A006F85E3 /* Gardella, Book 1, 12.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521E40F72949A006F85E3 /* Gardella, Book 1, 12.txt */; };
+		B3E521F80F72949A006F85E3 /* Gardella, Book 1, 13.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521E50F72949A006F85E3 /* Gardella, Book 1, 13.txt */; };
+		B3E521F90F72949A006F85E3 /* Gardella, Book 1, 14.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521E60F72949A006F85E3 /* Gardella, Book 1, 14.txt */; };
+		B3E521FA0F72949A006F85E3 /* Gardella, Book 1, 15.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521E70F72949A006F85E3 /* Gardella, Book 1, 15.txt */; };
+		B3E521FB0F72949A006F85E3 /* Gardella, Book 1, 16.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521E80F72949A006F85E3 /* Gardella, Book 1, 16.txt */; };
+		B3E521FC0F72949A006F85E3 /* Gardella, Book 1, 17.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521E90F72949A006F85E3 /* Gardella, Book 1, 17.txt */; };
+		B3E521FD0F72949A006F85E3 /* Gardella, Book 1, 18.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521EA0F72949A006F85E3 /* Gardella, Book 1, 18.txt */; };
+		B3E521FE0F72949A006F85E3 /* Gardella, Book 1, 19.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521EB0F72949A006F85E3 /* Gardella, Book 1, 19.txt */; };
+		B3E522130F7294BA006F85E3 /* Mummy or Ramses, Part 01.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E521FF0F7294BA006F85E3 /* Mummy or Ramses, Part 01.txt */; };
+		B3E522140F7294BA006F85E3 /* Mummy or Ramses, Part 02.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E522000F7294BA006F85E3 /* Mummy or Ramses, Part 02.txt */; };
+		B3E522150F7294BA006F85E3 /* Mummy or Ramses, Part 03.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E522010F7294BA006F85E3 /* Mummy or Ramses, Part 03.txt */; };
+		B3E522160F7294BA006F85E3 /* Mummy or Ramses, Part 04.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E522020F7294BA006F85E3 /* Mummy or Ramses, Part 04.txt */; };
+		B3E522170F7294BA006F85E3 /* Mummy or Ramses, Part 05.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E522030F7294BA006F85E3 /* Mummy or Ramses, Part 05.txt */; };
+		B3E522180F7294BA006F85E3 /* Mummy or Ramses, Part 06.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E522040F7294BA006F85E3 /* Mummy or Ramses, Part 06.txt */; };
+		B3E522190F7294BA006F85E3 /* Mummy or Ramses, Part 07.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E522050F7294BA006F85E3 /* Mummy or Ramses, Part 07.txt */; };
+		B3E5221A0F7294BA006F85E3 /* Mummy or Ramses, Part 08.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E522060F7294BA006F85E3 /* Mummy or Ramses, Part 08.txt */; };
+		B3E5221B0F7294BA006F85E3 /* Mummy or Ramses, Part 09.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E522070F7294BA006F85E3 /* Mummy or Ramses, Part 09.txt */; };
+		B3E5221C0F7294BA006F85E3 /* Mummy or Ramses, Part 10.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E522080F7294BA006F85E3 /* Mummy or Ramses, Part 10.txt */; };
+		B3E5221D0F7294BA006F85E3 /* Mummy or Ramses, Part 11.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E522090F7294BA006F85E3 /* Mummy or Ramses, Part 11.txt */; };
+		B3E5221E0F7294BA006F85E3 /* Mummy or Ramses, Part 12.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E5220A0F7294BA006F85E3 /* Mummy or Ramses, Part 12.txt */; };
+		B3E5221F0F7294BA006F85E3 /* Mummy or Ramses, Part 13.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E5220B0F7294BA006F85E3 /* Mummy or Ramses, Part 13.txt */; };
+		B3E522200F7294BA006F85E3 /* Mummy or Ramses, Part 14.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E5220C0F7294BA006F85E3 /* Mummy or Ramses, Part 14.txt */; };
+		B3E522210F7294BA006F85E3 /* Mummy or Ramses, Part 15.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E5220D0F7294BA006F85E3 /* Mummy or Ramses, Part 15.txt */; };
+		B3E522220F7294BA006F85E3 /* Mummy or Ramses, Part 16.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E5220E0F7294BA006F85E3 /* Mummy or Ramses, Part 16.txt */; };
+		B3E522230F7294BA006F85E3 /* Mummy or Ramses, Part 17.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E5220F0F7294BA006F85E3 /* Mummy or Ramses, Part 17.txt */; };
+		B3E522240F7294BA006F85E3 /* Mummy or Ramses, Part 18.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E522100F7294BA006F85E3 /* Mummy or Ramses, Part 18.txt */; };
+		B3E522250F7294BA006F85E3 /* Mummy or Ramses, Part 19.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E522110F7294BA006F85E3 /* Mummy or Ramses, Part 19.txt */; };
+		B3E522260F7294BA006F85E3 /* Mummy or Ramses, Part 20.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3E522120F7294BA006F85E3 /* Mummy or Ramses, Part 20.txt */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* ReadAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReadAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* ReadAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReadAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* Read.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Read.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		2899E5210DE3E06400AC0155 /* ReadViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ReadViewController.xib; sourceTree = "<group>"; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28D7ACF60DDB3853001CB0EB /* ReadViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReadViewController.h; sourceTree = "<group>"; };
+		28D7ACF70DDB3853001CB0EB /* ReadViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReadViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* Read_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Read_Prefix.pch; sourceTree = "<group>"; };
+		709E40C40E783FB400292D37 /* OptionsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OptionsViewController.h; sourceTree = "<group>"; };
+		709E40C50E783FB400292D37 /* OptionsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OptionsViewController.m; sourceTree = "<group>"; };
+		709E40D20E78400200292D37 /* OptionsView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = OptionsView.xib; sourceTree = "<group>"; };
+		70B105670EDA8348001AA3BD /* Interview_01.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_01.txt; sourceTree = "<group>"; };
+		70B105680EDA8348001AA3BD /* Interview_02.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_02.txt; sourceTree = "<group>"; };
+		70B105690EDA8348001AA3BD /* Interview_03.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_03.txt; sourceTree = "<group>"; };
+		70B1056A0EDA8348001AA3BD /* Interview_04.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_04.txt; sourceTree = "<group>"; };
+		70B1056B0EDA8348001AA3BD /* Interview_05.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_05.txt; sourceTree = "<group>"; };
+		70B1056C0EDA8348001AA3BD /* Interview_06.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_06.txt; sourceTree = "<group>"; };
+		70B1056D0EDA8348001AA3BD /* Interview_07.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_07.txt; sourceTree = "<group>"; };
+		70B1056E0EDA8348001AA3BD /* Interview_08.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_08.txt; sourceTree = "<group>"; };
+		70B1056F0EDA8348001AA3BD /* Interview_09.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_09.txt; sourceTree = "<group>"; };
+		70B105700EDA8348001AA3BD /* Interview_10.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_10.txt; sourceTree = "<group>"; };
+		70B105710EDA8348001AA3BD /* Interview_11.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_11.txt; sourceTree = "<group>"; };
+		70B105720EDA8348001AA3BD /* Interview_12.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_12.txt; sourceTree = "<group>"; };
+		70B105730EDA8348001AA3BD /* Interview_13.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_13.txt; sourceTree = "<group>"; };
+		70B105740EDA8348001AA3BD /* Interview_14.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_14.txt; sourceTree = "<group>"; };
+		70B105750EDA8348001AA3BD /* Interview_15.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_15.txt; sourceTree = "<group>"; };
+		70B105760EDA8348001AA3BD /* Interview_16.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_16.txt; sourceTree = "<group>"; };
+		70B105770EDA8348001AA3BD /* Interview_17.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_17.txt; sourceTree = "<group>"; };
+		70B105780EDA8348001AA3BD /* Interview_18.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_18.txt; sourceTree = "<group>"; };
+		70B105790EDA8348001AA3BD /* Interview_19.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_19.txt; sourceTree = "<group>"; };
+		70B1057A0EDA8348001AA3BD /* Interview_20.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_20.txt; sourceTree = "<group>"; };
+		70B1057B0EDA8348001AA3BD /* Interview_21.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_21.txt; sourceTree = "<group>"; };
+		70B1057C0EDA8348001AA3BD /* Interview_22.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_22.txt; sourceTree = "<group>"; };
+		70B1057D0EDA8348001AA3BD /* Interview_23.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_23.txt; sourceTree = "<group>"; };
+		70B1057E0EDA8348001AA3BD /* Interview_24.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_24.txt; sourceTree = "<group>"; };
+		70B1057F0EDA8348001AA3BD /* Interview_25.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_25.txt; sourceTree = "<group>"; };
+		70B105800EDA8348001AA3BD /* Interview_26.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_26.txt; sourceTree = "<group>"; };
+		70B105810EDA8348001AA3BD /* Interview_27.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_27.txt; sourceTree = "<group>"; };
+		70B105820EDA8348001AA3BD /* Interview_28.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_28.txt; sourceTree = "<group>"; };
+		70B105830EDA8348001AA3BD /* Interview_29.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_29.txt; sourceTree = "<group>"; };
+		70B105840EDA8348001AA3BD /* Interview_30.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_30.txt; sourceTree = "<group>"; };
+		70B105850EDA8348001AA3BD /* Interview_31.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_31.txt; sourceTree = "<group>"; };
+		70B105860EDA8348001AA3BD /* Interview_32.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_32.txt; sourceTree = "<group>"; };
+		70B105870EDA8348001AA3BD /* Interview_33.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_33.txt; sourceTree = "<group>"; };
+		70B105880EDA8348001AA3BD /* Interview_34.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Interview_34.txt; sourceTree = "<group>"; };
+		70D51CF10E6D1FDF00042B84 /* Darth Bane 2, Intro.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Intro.txt"; sourceTree = "<group>"; };
+		70D51CF30E6D1FEC00042B84 /* Darth Bane 2, Chapter 01.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Chapter 01.txt"; sourceTree = "<group>"; };
+		70D51CF40E6D1FEC00042B84 /* Darth Bane 2, Chapter 02.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Chapter 02.txt"; sourceTree = "<group>"; };
+		70D51CF50E6D1FEC00042B84 /* Darth Bane 2, Chapter 03.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Chapter 03.txt"; sourceTree = "<group>"; };
+		70D51CF60E6D1FEC00042B84 /* Darth Bane 2, Chapter 04.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Chapter 04.txt"; sourceTree = "<group>"; };
+		70D51CF70E6D1FEC00042B84 /* Darth Bane 2, Chapter 05.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Chapter 05.txt"; sourceTree = "<group>"; };
+		70D51CF80E6D1FEC00042B84 /* Darth Bane 2, Chapter 06.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Chapter 06.txt"; sourceTree = "<group>"; };
+		70D51CF90E6D1FEC00042B84 /* Darth Bane 2, Chapter 07.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Chapter 07.txt"; sourceTree = "<group>"; };
+		70D51CFA0E6D1FEC00042B84 /* Darth Bane 2, Chapter 08.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Chapter 08.txt"; sourceTree = "<group>"; };
+		70D51CFB0E6D1FEC00042B84 /* Darth Bane 2, Chapter 09.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Chapter 09.txt"; sourceTree = "<group>"; };
+		70D51CFC0E6D1FEC00042B84 /* Darth Bane 2, Chapter 10.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Chapter 10.txt"; sourceTree = "<group>"; };
+		70D51CFD0E6D1FEC00042B84 /* Darth Bane 2, Chapter 11.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Chapter 11.txt"; sourceTree = "<group>"; };
+		70D51CFE0E6D1FEC00042B84 /* Darth Bane 2, Chapter 12.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Chapter 12.txt"; sourceTree = "<group>"; };
+		70D51CFF0E6D1FEC00042B84 /* Darth Bane 2, Chapter 13.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Chapter 13.txt"; sourceTree = "<group>"; };
+		70D51D000E6D1FEC00042B84 /* Darth Bane 2, Chapter 14.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Chapter 14.txt"; sourceTree = "<group>"; };
+		70D51D010E6D1FEC00042B84 /* Darth Bane 2, Chapter 15.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Chapter 15.txt"; sourceTree = "<group>"; };
+		70D51D020E6D1FEC00042B84 /* Darth Bane 2, Chapter 16.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Chapter 16.txt"; sourceTree = "<group>"; };
+		70D51D030E6D1FEC00042B84 /* Darth Bane 2, Chapter 17.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Chapter 17.txt"; sourceTree = "<group>"; };
+		70D51D040E6D1FEC00042B84 /* Darth Bane 2, Chapter 18.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Chapter 18.txt"; sourceTree = "<group>"; };
+		70D51D050E6D1FEC00042B84 /* Darth Bane 2, Chapter 19.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Chapter 19.txt"; sourceTree = "<group>"; };
+		70D51D060E6D1FEC00042B84 /* Darth Bane 2, Chapter 20.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Chapter 20.txt"; sourceTree = "<group>"; };
+		70D51D070E6D1FEC00042B84 /* Darth Bane 2, Chapter 21.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Chapter 21.txt"; sourceTree = "<group>"; };
+		70D51D080E6D1FEC00042B84 /* Darth Bane 2, Chapter 22.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Chapter 22.txt"; sourceTree = "<group>"; };
+		70D51D090E6D1FEC00042B84 /* Darth Bane 2, Chapter 23.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Chapter 23.txt"; sourceTree = "<group>"; };
+		70D51D0A0E6D1FEC00042B84 /* Darth Bane 2, Chapter 24.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane 2, Chapter 24.txt"; sourceTree = "<group>"; };
+		70F4F3A40E5CF0D6007DBDAC /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		70F4F3E60E5CF554007DBDAC /* Star Wars, Cloak of Deception.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Star Wars, Cloak of Deception.txt"; sourceTree = "<group>"; };
+		70F4F3EE0E5CF554007DBDAC /* The Chronicles of Narnia.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Chronicles of Narnia.txt"; sourceTree = "<group>"; };
+		70F4F4200E5CF7AE007DBDAC /* BookViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BookViewController.h; sourceTree = "<group>"; };
+		70F4F4210E5CF7AE007DBDAC /* BookViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BookViewController.m; sourceTree = "<group>"; };
+		70F4F43B0E5CF86B007DBDAC /* BookView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = BookView.xib; path = Classes/BookView.xib; sourceTree = "<group>"; };
+		70F4F4F00E5CFF43007DBDAC /* library.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = library.png; sourceTree = "<group>"; };
+		70F4F4FC0E5CFFBB007DBDAC /* biR2bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = biR2bg.jpg; sourceTree = "<group>"; };
+		70FDA5080E9D713C00D02EE5 /* Nutcracker_Coup_01.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Nutcracker_Coup_01.txt; sourceTree = "<group>"; };
+		70FDA5090E9D713C00D02EE5 /* Nutcracker_Coup_02.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Nutcracker_Coup_02.txt; sourceTree = "<group>"; };
+		70FDA50A0E9D713C00D02EE5 /* Nutcracker_Coup_03.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Nutcracker_Coup_03.txt; sourceTree = "<group>"; };
+		70FDA50B0E9D713C00D02EE5 /* Nutcracker_Coup_04.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Nutcracker_Coup_04.txt; sourceTree = "<group>"; };
+		70FDA50C0E9D713C00D02EE5 /* Nutcracker_Coup_05.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Nutcracker_Coup_05.txt; sourceTree = "<group>"; };
+		70FDA50D0E9D713C00D02EE5 /* Nutcracker_Coup_06.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Nutcracker_Coup_06.txt; sourceTree = "<group>"; };
+		70FDA50E0E9D713C00D02EE5 /* Nutcracker_Coup_07.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Nutcracker_Coup_07.txt; sourceTree = "<group>"; };
+		70FDA50F0E9D713C00D02EE5 /* Nutcracker_Coup_08.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Nutcracker_Coup_08.txt; sourceTree = "<group>"; };
+		70FDA5100E9D713C00D02EE5 /* Nutcracker_Coup_09.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Nutcracker_Coup_09.txt; sourceTree = "<group>"; };
+		70FDA5110E9D713C00D02EE5 /* Nutcracker_Coup_10.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Nutcracker_Coup_10.txt; sourceTree = "<group>"; };
+		70FF21D50E6482DD00ABE8F6 /* Darth Bane, Chapter 01.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 01.txt"; sourceTree = "<group>"; };
+		70FF21D60E6482DD00ABE8F6 /* Darth Bane, Chapter 02.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 02.txt"; sourceTree = "<group>"; };
+		70FF21D70E6482DD00ABE8F6 /* Darth Bane, Chapter 03.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 03.txt"; sourceTree = "<group>"; };
+		70FF21D80E6482DD00ABE8F6 /* Darth Bane, Chapter 04.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 04.txt"; sourceTree = "<group>"; };
+		70FF21D90E6482DD00ABE8F6 /* Darth Bane, Chapter 05.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 05.txt"; sourceTree = "<group>"; };
+		70FF21DA0E6482DD00ABE8F6 /* Darth Bane, Chapter 06.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 06.txt"; sourceTree = "<group>"; };
+		70FF21DB0E6482DD00ABE8F6 /* Darth Bane, Chapter 07.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 07.txt"; sourceTree = "<group>"; };
+		70FF21DC0E6482DD00ABE8F6 /* Darth Bane, Chapter 08.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 08.txt"; sourceTree = "<group>"; };
+		70FF21DD0E6482DD00ABE8F6 /* Darth Bane, Chapter 09.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 09.txt"; sourceTree = "<group>"; };
+		70FF21DE0E6482DD00ABE8F6 /* Darth Bane, Chapter 10.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 10.txt"; sourceTree = "<group>"; };
+		70FF21DF0E6482DD00ABE8F6 /* Darth Bane, Chapter 11.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 11.txt"; sourceTree = "<group>"; };
+		70FF21E00E6482DD00ABE8F6 /* Darth Bane, Chapter 12.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 12.txt"; sourceTree = "<group>"; };
+		70FF21E10E6482DD00ABE8F6 /* Darth Bane, Chapter 13.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 13.txt"; sourceTree = "<group>"; };
+		70FF21E20E6482DD00ABE8F6 /* Darth Bane, Chapter 14.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 14.txt"; sourceTree = "<group>"; };
+		70FF21E30E6482DD00ABE8F6 /* Darth Bane, Chapter 15.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 15.txt"; sourceTree = "<group>"; };
+		70FF21E40E6482DD00ABE8F6 /* Darth Bane, Chapter 16.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 16.txt"; sourceTree = "<group>"; };
+		70FF21E50E6482DD00ABE8F6 /* Darth Bane, Chapter 17.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 17.txt"; sourceTree = "<group>"; };
+		70FF21E60E6482DD00ABE8F6 /* Darth Bane, Chapter 18.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 18.txt"; sourceTree = "<group>"; };
+		70FF21E70E6482DD00ABE8F6 /* Darth Bane, Chapter 20.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 20.txt"; sourceTree = "<group>"; };
+		70FF21E80E6482DD00ABE8F6 /* Darth Bane, Chapter 21.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 21.txt"; sourceTree = "<group>"; };
+		70FF21E90E6482DD00ABE8F6 /* Darth Bane, Chapter 22.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 22.txt"; sourceTree = "<group>"; };
+		70FF21EA0E6482DD00ABE8F6 /* Darth Bane, Chapter 23.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 23.txt"; sourceTree = "<group>"; };
+		70FF21EB0E6482DD00ABE8F6 /* Darth Bane, Chapter 24.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 24.txt"; sourceTree = "<group>"; };
+		70FF21EC0E6482DD00ABE8F6 /* Darth Bane, Chapter 25.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 25.txt"; sourceTree = "<group>"; };
+		70FF21ED0E6482DD00ABE8F6 /* Darth Bane, Chapter 26.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 26.txt"; sourceTree = "<group>"; };
+		70FF21EE0E6482DD00ABE8F6 /* Darth Bane, Chapter 27.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 27.txt"; sourceTree = "<group>"; };
+		70FF21EF0E6482DD00ABE8F6 /* Darth Bane, Chapter 28.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 28.txt"; sourceTree = "<group>"; };
+		70FF21F00E6482DD00ABE8F6 /* Darth Bane, Chapter 29.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 29.txt"; sourceTree = "<group>"; };
+		70FF21F10E6482DD00ABE8F6 /* Darth Bane, Chapter 30.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 30.txt"; sourceTree = "<group>"; };
+		70FF21F20E6482DD00ABE8F6 /* Darth Bane, Chapter 31.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Chapter 31.txt"; sourceTree = "<group>"; };
+		70FF21F30E6482DD00ABE8F6 /* Darth Bane, Intro.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darth Bane, Intro.txt"; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B3C0C58C0F7201EC00ED054D /* Death Star, 01.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 01.txt"; sourceTree = "<group>"; };
+		B3C0C58D0F7201EC00ED054D /* Death Star, 02.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 02.txt"; sourceTree = "<group>"; };
+		B3C0C58E0F7201EC00ED054D /* Death Star, 03.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 03.txt"; sourceTree = "<group>"; };
+		B3C0C58F0F7201EC00ED054D /* Death Star, 04.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 04.txt"; sourceTree = "<group>"; };
+		B3C0C5900F7201EC00ED054D /* Death Star, 05.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 05.txt"; sourceTree = "<group>"; };
+		B3C0C5910F7201ED00ED054D /* Death Star, 06.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 06.txt"; sourceTree = "<group>"; };
+		B3C0C5920F7201ED00ED054D /* Death Star, 07.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 07.txt"; sourceTree = "<group>"; };
+		B3C0C5930F7201ED00ED054D /* Death Star, 08.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 08.txt"; sourceTree = "<group>"; };
+		B3C0C5940F7201ED00ED054D /* Death Star, 09.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 09.txt"; sourceTree = "<group>"; };
+		B3C0C5950F7201ED00ED054D /* Death Star, 10.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 10.txt"; sourceTree = "<group>"; };
+		B3C0C5960F7201ED00ED054D /* Death Star, 11.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 11.txt"; sourceTree = "<group>"; };
+		B3C0C5970F7201ED00ED054D /* Death Star, 12.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 12.txt"; sourceTree = "<group>"; };
+		B3C0C5980F7201ED00ED054D /* Death Star, 13.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 13.txt"; sourceTree = "<group>"; };
+		B3C0C5990F7201EE00ED054D /* Death Star, 14.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 14.txt"; sourceTree = "<group>"; };
+		B3C0C59A0F7201EE00ED054D /* Death Star, 15.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 15.txt"; sourceTree = "<group>"; };
+		B3C0C59B0F7201EE00ED054D /* Death Star, 16.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 16.txt"; sourceTree = "<group>"; };
+		B3C0C59C0F7201EE00ED054D /* Death Star, 17.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 17.txt"; sourceTree = "<group>"; };
+		B3C0C59D0F7201EE00ED054D /* Death Star, 18.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 18.txt"; sourceTree = "<group>"; };
+		B3C0C59E0F7201EE00ED054D /* Death Star, 19.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 19.txt"; sourceTree = "<group>"; };
+		B3C0C59F0F7201EE00ED054D /* Death Star, 20.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 20.txt"; sourceTree = "<group>"; };
+		B3C0C5A00F7201EE00ED054D /* Death Star, 21.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 21.txt"; sourceTree = "<group>"; };
+		B3C0C5A10F7201EE00ED054D /* Death Star, 22.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 22.txt"; sourceTree = "<group>"; };
+		B3C0C5A20F7201EF00ED054D /* Death Star, 23.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 23.txt"; sourceTree = "<group>"; };
+		B3C0C5A30F7201EF00ED054D /* Death Star, 24.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 24.txt"; sourceTree = "<group>"; };
+		B3C0C5A40F7201EF00ED054D /* Death Star, 25.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Death Star, 25.txt"; sourceTree = "<group>"; };
+		B3C0C5A50F7201EF00ED054D /* Heir to the Empire, 01.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 01.txt"; sourceTree = "<group>"; };
+		B3C0C5A60F7201EF00ED054D /* Heir to the Empire, 02.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 02.txt"; sourceTree = "<group>"; };
+		B3C0C5A70F7201EF00ED054D /* Heir to the Empire, 03.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 03.txt"; sourceTree = "<group>"; };
+		B3C0C5A80F7201EF00ED054D /* Heir to the Empire, 04.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 04.txt"; sourceTree = "<group>"; };
+		B3C0C5A90F7201EF00ED054D /* Heir to the Empire, 05.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 05.txt"; sourceTree = "<group>"; };
+		B3C0C5AA0F7201F000ED054D /* Heir to the Empire, 06.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 06.txt"; sourceTree = "<group>"; };
+		B3C0C5AB0F7201F000ED054D /* Heir to the Empire, 07.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 07.txt"; sourceTree = "<group>"; };
+		B3C0C5AC0F7201F000ED054D /* Heir to the Empire, 08.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 08.txt"; sourceTree = "<group>"; };
+		B3C0C5AD0F7201F000ED054D /* Heir to the Empire, 09.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 09.txt"; sourceTree = "<group>"; };
+		B3C0C5AE0F7201F000ED054D /* Heir to the Empire, 10.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 10.txt"; sourceTree = "<group>"; };
+		B3C0C5AF0F7201F000ED054D /* Heir to the Empire, 11.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 11.txt"; sourceTree = "<group>"; };
+		B3C0C5B00F7201F000ED054D /* Heir to the Empire, 12.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 12.txt"; sourceTree = "<group>"; };
+		B3C0C5B10F7201F100ED054D /* Heir to the Empire, 13.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 13.txt"; sourceTree = "<group>"; };
+		B3C0C5B20F7201F100ED054D /* Heir to the Empire, 14.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 14.txt"; sourceTree = "<group>"; };
+		B3C0C5B30F7201F100ED054D /* Heir to the Empire, 15.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 15.txt"; sourceTree = "<group>"; };
+		B3C0C5B40F7201F100ED054D /* Heir to the Empire, 16.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 16.txt"; sourceTree = "<group>"; };
+		B3C0C5B50F7201F100ED054D /* Heir to the Empire, 17.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 17.txt"; sourceTree = "<group>"; };
+		B3C0C5B60F7201F100ED054D /* Heir to the Empire, 18.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 18.txt"; sourceTree = "<group>"; };
+		B3C0C5B70F7201F100ED054D /* Heir to the Empire, 19.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 19.txt"; sourceTree = "<group>"; };
+		B3C0C5B80F7201F100ED054D /* Heir to the Empire, 20.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 20.txt"; sourceTree = "<group>"; };
+		B3C0C5B90F7201F200ED054D /* Heir to the Empire, 21.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 21.txt"; sourceTree = "<group>"; };
+		B3C0C5BA0F7201F200ED054D /* Heir to the Empire, 22.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 22.txt"; sourceTree = "<group>"; };
+		B3C0C5BB0F7201F200ED054D /* Heir to the Empire, 23.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 23.txt"; sourceTree = "<group>"; };
+		B3C0C5BC0F7201F200ED054D /* Heir to the Empire, 24.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 24.txt"; sourceTree = "<group>"; };
+		B3C0C5BD0F7201F200ED054D /* Heir to the Empire, 25.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heir to the Empire, 25.txt"; sourceTree = "<group>"; };
+		B3E5217F0F72946D006F85E3 /* Blood Ties, Book 01 Part 01.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Blood Ties, Book 01 Part 01.txt"; sourceTree = "<group>"; };
+		B3E521800F72946D006F85E3 /* Blood Ties, Book 01 Part 02.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Blood Ties, Book 01 Part 02.txt"; sourceTree = "<group>"; };
+		B3E521810F72946D006F85E3 /* Blood Ties, Book 01 Part 03.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Blood Ties, Book 01 Part 03.txt"; sourceTree = "<group>"; };
+		B3E521820F72946D006F85E3 /* Blood Ties, Book 01 Part 04.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Blood Ties, Book 01 Part 04.txt"; sourceTree = "<group>"; };
+		B3E521830F72946D006F85E3 /* Blood Ties, Book 01 Part 05.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Blood Ties, Book 01 Part 05.txt"; sourceTree = "<group>"; };
+		B3E521840F72946D006F85E3 /* Blood Ties, Book 01 Part 06.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Blood Ties, Book 01 Part 06.txt"; sourceTree = "<group>"; };
+		B3E521850F72946D006F85E3 /* Blood Ties, Book 01 Part 07.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Blood Ties, Book 01 Part 07.txt"; sourceTree = "<group>"; };
+		B3E521860F72946D006F85E3 /* Blood Ties, Book 01 Part 08.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Blood Ties, Book 01 Part 08.txt"; sourceTree = "<group>"; };
+		B3E521870F72946D006F85E3 /* Blood Ties, Book 01 Part 09.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Blood Ties, Book 01 Part 09.txt"; sourceTree = "<group>"; };
+		B3E521880F72946D006F85E3 /* Blood Ties, Book 01 Part 10.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Blood Ties, Book 01 Part 10.txt"; sourceTree = "<group>"; };
+		B3E521890F72946D006F85E3 /* Blood Ties, Book 01 Part 11.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Blood Ties, Book 01 Part 11.txt"; sourceTree = "<group>"; };
+		B3E5218A0F72946D006F85E3 /* Blood Ties, Book 01 Part 12.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Blood Ties, Book 01 Part 12.txt"; sourceTree = "<group>"; };
+		B3E5218B0F72946D006F85E3 /* Blood Ties, Book 01 Part 13.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Blood Ties, Book 01 Part 13.txt"; sourceTree = "<group>"; };
+		B3E5218C0F72946D006F85E3 /* Blood Ties, Book 01 Part 14.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Blood Ties, Book 01 Part 14.txt"; sourceTree = "<group>"; };
+		B3E5218D0F72946D006F85E3 /* Blood Ties, Book 01 Part 15.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Blood Ties, Book 01 Part 15.txt"; sourceTree = "<group>"; };
+		B3E5218E0F72946D006F85E3 /* Blood Ties, Book 01 Part 16.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Blood Ties, Book 01 Part 16.txt"; sourceTree = "<group>"; };
+		B3E5218F0F72946D006F85E3 /* Blood Ties, Book 01 Part 17.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Blood Ties, Book 01 Part 17.txt"; sourceTree = "<group>"; };
+		B3E521900F72946D006F85E3 /* Blood Ties, Book 01 Part 18.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Blood Ties, Book 01 Part 18.txt"; sourceTree = "<group>"; };
+		B3E521910F72946D006F85E3 /* Blood Ties, Book 01 Part 19.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Blood Ties, Book 01 Part 19.txt"; sourceTree = "<group>"; };
+		B3E521920F72946D006F85E3 /* Blood Ties, Book 01 Part 20.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Blood Ties, Book 01 Part 20.txt"; sourceTree = "<group>"; };
+		B3E521A70F729488006F85E3 /* Dead_Until_Dark_01.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_01.txt; sourceTree = "<group>"; };
+		B3E521A80F729488006F85E3 /* Dead_Until_Dark_02.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_02.txt; sourceTree = "<group>"; };
+		B3E521A90F729488006F85E3 /* Dead_Until_Dark_03.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_03.txt; sourceTree = "<group>"; };
+		B3E521AA0F729488006F85E3 /* Dead_Until_Dark_04.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_04.txt; sourceTree = "<group>"; };
+		B3E521AB0F729488006F85E3 /* Dead_Until_Dark_05.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_05.txt; sourceTree = "<group>"; };
+		B3E521AC0F729488006F85E3 /* Dead_Until_Dark_06.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_06.txt; sourceTree = "<group>"; };
+		B3E521AD0F729488006F85E3 /* Dead_Until_Dark_07.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_07.txt; sourceTree = "<group>"; };
+		B3E521AE0F729488006F85E3 /* Dead_Until_Dark_08.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_08.txt; sourceTree = "<group>"; };
+		B3E521AF0F729488006F85E3 /* Dead_Until_Dark_09.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_09.txt; sourceTree = "<group>"; };
+		B3E521B00F729488006F85E3 /* Dead_Until_Dark_10.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_10.txt; sourceTree = "<group>"; };
+		B3E521B10F729488006F85E3 /* Dead_Until_Dark_11.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_11.txt; sourceTree = "<group>"; };
+		B3E521B20F729488006F85E3 /* Dead_Until_Dark_12.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_12.txt; sourceTree = "<group>"; };
+		B3E521B30F729488006F85E3 /* Dead_Until_Dark_13.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_13.txt; sourceTree = "<group>"; };
+		B3E521B40F729488006F85E3 /* Dead_Until_Dark_14.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_14.txt; sourceTree = "<group>"; };
+		B3E521B50F729488006F85E3 /* Dead_Until_Dark_15.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_15.txt; sourceTree = "<group>"; };
+		B3E521B60F729488006F85E3 /* Dead_Until_Dark_16.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_16.txt; sourceTree = "<group>"; };
+		B3E521B70F729488006F85E3 /* Dead_Until_Dark_17.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_17.txt; sourceTree = "<group>"; };
+		B3E521B80F729488006F85E3 /* Dead_Until_Dark_18.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_18.txt; sourceTree = "<group>"; };
+		B3E521B90F729488006F85E3 /* Dead_Until_Dark_19.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_19.txt; sourceTree = "<group>"; };
+		B3E521BA0F729488006F85E3 /* Dead_Until_Dark_20.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_20.txt; sourceTree = "<group>"; };
+		B3E521BB0F729488006F85E3 /* Dead_Until_Dark_21.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_21.txt; sourceTree = "<group>"; };
+		B3E521BC0F729488006F85E3 /* Dead_Until_Dark_22.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_22.txt; sourceTree = "<group>"; };
+		B3E521BD0F729488006F85E3 /* Dead_Until_Dark_23.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_23.txt; sourceTree = "<group>"; };
+		B3E521BE0F729488006F85E3 /* Dead_Until_Dark_24.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_24.txt; sourceTree = "<group>"; };
+		B3E521BF0F729488006F85E3 /* Dead_Until_Dark_25.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Dead_Until_Dark_25.txt; sourceTree = "<group>"; };
+		B3E521D90F72949A006F85E3 /* Gardella, Book 1, 01.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gardella, Book 1, 01.txt"; sourceTree = "<group>"; };
+		B3E521DA0F72949A006F85E3 /* Gardella, Book 1, 02.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gardella, Book 1, 02.txt"; sourceTree = "<group>"; };
+		B3E521DB0F72949A006F85E3 /* Gardella, Book 1, 03.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gardella, Book 1, 03.txt"; sourceTree = "<group>"; };
+		B3E521DC0F72949A006F85E3 /* Gardella, Book 1, 04.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gardella, Book 1, 04.txt"; sourceTree = "<group>"; };
+		B3E521DD0F72949A006F85E3 /* Gardella, Book 1, 05.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gardella, Book 1, 05.txt"; sourceTree = "<group>"; };
+		B3E521DE0F72949A006F85E3 /* Gardella, Book 1, 06.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gardella, Book 1, 06.txt"; sourceTree = "<group>"; };
+		B3E521DF0F72949A006F85E3 /* Gardella, Book 1, 07.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gardella, Book 1, 07.txt"; sourceTree = "<group>"; };
+		B3E521E00F72949A006F85E3 /* Gardella, Book 1, 08.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gardella, Book 1, 08.txt"; sourceTree = "<group>"; };
+		B3E521E10F72949A006F85E3 /* Gardella, Book 1, 09.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gardella, Book 1, 09.txt"; sourceTree = "<group>"; };
+		B3E521E20F72949A006F85E3 /* Gardella, Book 1, 10.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gardella, Book 1, 10.txt"; sourceTree = "<group>"; };
+		B3E521E30F72949A006F85E3 /* Gardella, Book 1, 11.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gardella, Book 1, 11.txt"; sourceTree = "<group>"; };
+		B3E521E40F72949A006F85E3 /* Gardella, Book 1, 12.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gardella, Book 1, 12.txt"; sourceTree = "<group>"; };
+		B3E521E50F72949A006F85E3 /* Gardella, Book 1, 13.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gardella, Book 1, 13.txt"; sourceTree = "<group>"; };
+		B3E521E60F72949A006F85E3 /* Gardella, Book 1, 14.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gardella, Book 1, 14.txt"; sourceTree = "<group>"; };
+		B3E521E70F72949A006F85E3 /* Gardella, Book 1, 15.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gardella, Book 1, 15.txt"; sourceTree = "<group>"; };
+		B3E521E80F72949A006F85E3 /* Gardella, Book 1, 16.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gardella, Book 1, 16.txt"; sourceTree = "<group>"; };
+		B3E521E90F72949A006F85E3 /* Gardella, Book 1, 17.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gardella, Book 1, 17.txt"; sourceTree = "<group>"; };
+		B3E521EA0F72949A006F85E3 /* Gardella, Book 1, 18.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gardella, Book 1, 18.txt"; sourceTree = "<group>"; };
+		B3E521EB0F72949A006F85E3 /* Gardella, Book 1, 19.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gardella, Book 1, 19.txt"; sourceTree = "<group>"; };
+		B3E521FF0F7294BA006F85E3 /* Mummy or Ramses, Part 01.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Mummy or Ramses, Part 01.txt"; sourceTree = "<group>"; };
+		B3E522000F7294BA006F85E3 /* Mummy or Ramses, Part 02.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Mummy or Ramses, Part 02.txt"; sourceTree = "<group>"; };
+		B3E522010F7294BA006F85E3 /* Mummy or Ramses, Part 03.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Mummy or Ramses, Part 03.txt"; sourceTree = "<group>"; };
+		B3E522020F7294BA006F85E3 /* Mummy or Ramses, Part 04.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Mummy or Ramses, Part 04.txt"; sourceTree = "<group>"; };
+		B3E522030F7294BA006F85E3 /* Mummy or Ramses, Part 05.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Mummy or Ramses, Part 05.txt"; sourceTree = "<group>"; };
+		B3E522040F7294BA006F85E3 /* Mummy or Ramses, Part 06.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Mummy or Ramses, Part 06.txt"; sourceTree = "<group>"; };
+		B3E522050F7294BA006F85E3 /* Mummy or Ramses, Part 07.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Mummy or Ramses, Part 07.txt"; sourceTree = "<group>"; };
+		B3E522060F7294BA006F85E3 /* Mummy or Ramses, Part 08.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Mummy or Ramses, Part 08.txt"; sourceTree = "<group>"; };
+		B3E522070F7294BA006F85E3 /* Mummy or Ramses, Part 09.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Mummy or Ramses, Part 09.txt"; sourceTree = "<group>"; };
+		B3E522080F7294BA006F85E3 /* Mummy or Ramses, Part 10.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Mummy or Ramses, Part 10.txt"; sourceTree = "<group>"; };
+		B3E522090F7294BA006F85E3 /* Mummy or Ramses, Part 11.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Mummy or Ramses, Part 11.txt"; sourceTree = "<group>"; };
+		B3E5220A0F7294BA006F85E3 /* Mummy or Ramses, Part 12.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Mummy or Ramses, Part 12.txt"; sourceTree = "<group>"; };
+		B3E5220B0F7294BA006F85E3 /* Mummy or Ramses, Part 13.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Mummy or Ramses, Part 13.txt"; sourceTree = "<group>"; };
+		B3E5220C0F7294BA006F85E3 /* Mummy or Ramses, Part 14.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Mummy or Ramses, Part 14.txt"; sourceTree = "<group>"; };
+		B3E5220D0F7294BA006F85E3 /* Mummy or Ramses, Part 15.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Mummy or Ramses, Part 15.txt"; sourceTree = "<group>"; };
+		B3E5220E0F7294BA006F85E3 /* Mummy or Ramses, Part 16.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Mummy or Ramses, Part 16.txt"; sourceTree = "<group>"; };
+		B3E5220F0F7294BA006F85E3 /* Mummy or Ramses, Part 17.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Mummy or Ramses, Part 17.txt"; sourceTree = "<group>"; };
+		B3E522100F7294BA006F85E3 /* Mummy or Ramses, Part 18.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Mummy or Ramses, Part 18.txt"; sourceTree = "<group>"; };
+		B3E522110F7294BA006F85E3 /* Mummy or Ramses, Part 19.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Mummy or Ramses, Part 19.txt"; sourceTree = "<group>"; };
+		B3E522120F7294BA006F85E3 /* Mummy or Ramses, Part 20.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Mummy or Ramses, Part 20.txt"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				70F4F3A50E5CF0D6007DBDAC /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* ReadAppDelegate.h */,
+				1D3623250D0F684500981E51 /* ReadAppDelegate.m */,
+				28D7ACF60DDB3853001CB0EB /* ReadViewController.h */,
+				28D7ACF70DDB3853001CB0EB /* ReadViewController.m */,
+				70F4F4200E5CF7AE007DBDAC /* BookViewController.h */,
+				70F4F4210E5CF7AE007DBDAC /* BookViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* Read.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				709E40C00E783B3F00292D37 /* Modal */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+				70F4F43B0E5CF86B007DBDAC /* BookView.xib */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* Read_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				B3E521FF0F7294BA006F85E3 /* Mummy or Ramses, Part 01.txt */,
+				B3E522000F7294BA006F85E3 /* Mummy or Ramses, Part 02.txt */,
+				B3E522010F7294BA006F85E3 /* Mummy or Ramses, Part 03.txt */,
+				B3E522020F7294BA006F85E3 /* Mummy or Ramses, Part 04.txt */,
+				B3E522030F7294BA006F85E3 /* Mummy or Ramses, Part 05.txt */,
+				B3E522040F7294BA006F85E3 /* Mummy or Ramses, Part 06.txt */,
+				B3E522050F7294BA006F85E3 /* Mummy or Ramses, Part 07.txt */,
+				B3E522060F7294BA006F85E3 /* Mummy or Ramses, Part 08.txt */,
+				B3E522070F7294BA006F85E3 /* Mummy or Ramses, Part 09.txt */,
+				B3E522080F7294BA006F85E3 /* Mummy or Ramses, Part 10.txt */,
+				B3E522090F7294BA006F85E3 /* Mummy or Ramses, Part 11.txt */,
+				B3E5220A0F7294BA006F85E3 /* Mummy or Ramses, Part 12.txt */,
+				B3E5220B0F7294BA006F85E3 /* Mummy or Ramses, Part 13.txt */,
+				B3E5220C0F7294BA006F85E3 /* Mummy or Ramses, Part 14.txt */,
+				B3E5220D0F7294BA006F85E3 /* Mummy or Ramses, Part 15.txt */,
+				B3E5220E0F7294BA006F85E3 /* Mummy or Ramses, Part 16.txt */,
+				B3E5220F0F7294BA006F85E3 /* Mummy or Ramses, Part 17.txt */,
+				B3E522100F7294BA006F85E3 /* Mummy or Ramses, Part 18.txt */,
+				B3E522110F7294BA006F85E3 /* Mummy or Ramses, Part 19.txt */,
+				B3E522120F7294BA006F85E3 /* Mummy or Ramses, Part 20.txt */,
+				B3E521D90F72949A006F85E3 /* Gardella, Book 1, 01.txt */,
+				B3E521DA0F72949A006F85E3 /* Gardella, Book 1, 02.txt */,
+				B3E521DB0F72949A006F85E3 /* Gardella, Book 1, 03.txt */,
+				B3E521DC0F72949A006F85E3 /* Gardella, Book 1, 04.txt */,
+				B3E521DD0F72949A006F85E3 /* Gardella, Book 1, 05.txt */,
+				B3E521DE0F72949A006F85E3 /* Gardella, Book 1, 06.txt */,
+				B3E521DF0F72949A006F85E3 /* Gardella, Book 1, 07.txt */,
+				B3E521E00F72949A006F85E3 /* Gardella, Book 1, 08.txt */,
+				B3E521E10F72949A006F85E3 /* Gardella, Book 1, 09.txt */,
+				B3E521E20F72949A006F85E3 /* Gardella, Book 1, 10.txt */,
+				B3E521E30F72949A006F85E3 /* Gardella, Book 1, 11.txt */,
+				B3E521E40F72949A006F85E3 /* Gardella, Book 1, 12.txt */,
+				B3E521E50F72949A006F85E3 /* Gardella, Book 1, 13.txt */,
+				B3E521E60F72949A006F85E3 /* Gardella, Book 1, 14.txt */,
+				B3E521E70F72949A006F85E3 /* Gardella, Book 1, 15.txt */,
+				B3E521E80F72949A006F85E3 /* Gardella, Book 1, 16.txt */,
+				B3E521E90F72949A006F85E3 /* Gardella, Book 1, 17.txt */,
+				B3E521EA0F72949A006F85E3 /* Gardella, Book 1, 18.txt */,
+				B3E521EB0F72949A006F85E3 /* Gardella, Book 1, 19.txt */,
+				B3E521A70F729488006F85E3 /* Dead_Until_Dark_01.txt */,
+				B3E521A80F729488006F85E3 /* Dead_Until_Dark_02.txt */,
+				B3E521A90F729488006F85E3 /* Dead_Until_Dark_03.txt */,
+				B3E521AA0F729488006F85E3 /* Dead_Until_Dark_04.txt */,
+				B3E521AB0F729488006F85E3 /* Dead_Until_Dark_05.txt */,
+				B3E521AC0F729488006F85E3 /* Dead_Until_Dark_06.txt */,
+				B3E521AD0F729488006F85E3 /* Dead_Until_Dark_07.txt */,
+				B3E521AE0F729488006F85E3 /* Dead_Until_Dark_08.txt */,
+				B3E521AF0F729488006F85E3 /* Dead_Until_Dark_09.txt */,
+				B3E521B00F729488006F85E3 /* Dead_Until_Dark_10.txt */,
+				B3E521B10F729488006F85E3 /* Dead_Until_Dark_11.txt */,
+				B3E521B20F729488006F85E3 /* Dead_Until_Dark_12.txt */,
+				B3E521B30F729488006F85E3 /* Dead_Until_Dark_13.txt */,
+				B3E521B40F729488006F85E3 /* Dead_Until_Dark_14.txt */,
+				B3E521B50F729488006F85E3 /* Dead_Until_Dark_15.txt */,
+				B3E521B60F729488006F85E3 /* Dead_Until_Dark_16.txt */,
+				B3E521B70F729488006F85E3 /* Dead_Until_Dark_17.txt */,
+				B3E521B80F729488006F85E3 /* Dead_Until_Dark_18.txt */,
+				B3E521B90F729488006F85E3 /* Dead_Until_Dark_19.txt */,
+				B3E521BA0F729488006F85E3 /* Dead_Until_Dark_20.txt */,
+				B3E521BB0F729488006F85E3 /* Dead_Until_Dark_21.txt */,
+				B3E521BC0F729488006F85E3 /* Dead_Until_Dark_22.txt */,
+				B3E521BD0F729488006F85E3 /* Dead_Until_Dark_23.txt */,
+				B3E521BE0F729488006F85E3 /* Dead_Until_Dark_24.txt */,
+				B3E521BF0F729488006F85E3 /* Dead_Until_Dark_25.txt */,
+				B3E5217F0F72946D006F85E3 /* Blood Ties, Book 01 Part 01.txt */,
+				B3E521800F72946D006F85E3 /* Blood Ties, Book 01 Part 02.txt */,
+				B3E521810F72946D006F85E3 /* Blood Ties, Book 01 Part 03.txt */,
+				B3E521820F72946D006F85E3 /* Blood Ties, Book 01 Part 04.txt */,
+				B3E521830F72946D006F85E3 /* Blood Ties, Book 01 Part 05.txt */,
+				B3E521840F72946D006F85E3 /* Blood Ties, Book 01 Part 06.txt */,
+				B3E521850F72946D006F85E3 /* Blood Ties, Book 01 Part 07.txt */,
+				B3E521860F72946D006F85E3 /* Blood Ties, Book 01 Part 08.txt */,
+				B3E521870F72946D006F85E3 /* Blood Ties, Book 01 Part 09.txt */,
+				B3E521880F72946D006F85E3 /* Blood Ties, Book 01 Part 10.txt */,
+				B3E521890F72946D006F85E3 /* Blood Ties, Book 01 Part 11.txt */,
+				B3E5218A0F72946D006F85E3 /* Blood Ties, Book 01 Part 12.txt */,
+				B3E5218B0F72946D006F85E3 /* Blood Ties, Book 01 Part 13.txt */,
+				B3E5218C0F72946D006F85E3 /* Blood Ties, Book 01 Part 14.txt */,
+				B3E5218D0F72946D006F85E3 /* Blood Ties, Book 01 Part 15.txt */,
+				B3E5218E0F72946D006F85E3 /* Blood Ties, Book 01 Part 16.txt */,
+				B3E5218F0F72946D006F85E3 /* Blood Ties, Book 01 Part 17.txt */,
+				B3E521900F72946D006F85E3 /* Blood Ties, Book 01 Part 18.txt */,
+				B3E521910F72946D006F85E3 /* Blood Ties, Book 01 Part 19.txt */,
+				B3E521920F72946D006F85E3 /* Blood Ties, Book 01 Part 20.txt */,
+				B3C0C58C0F7201EC00ED054D /* Death Star, 01.txt */,
+				B3C0C58D0F7201EC00ED054D /* Death Star, 02.txt */,
+				B3C0C58E0F7201EC00ED054D /* Death Star, 03.txt */,
+				B3C0C58F0F7201EC00ED054D /* Death Star, 04.txt */,
+				B3C0C5900F7201EC00ED054D /* Death Star, 05.txt */,
+				B3C0C5910F7201ED00ED054D /* Death Star, 06.txt */,
+				B3C0C5920F7201ED00ED054D /* Death Star, 07.txt */,
+				B3C0C5930F7201ED00ED054D /* Death Star, 08.txt */,
+				B3C0C5940F7201ED00ED054D /* Death Star, 09.txt */,
+				B3C0C5950F7201ED00ED054D /* Death Star, 10.txt */,
+				B3C0C5960F7201ED00ED054D /* Death Star, 11.txt */,
+				B3C0C5970F7201ED00ED054D /* Death Star, 12.txt */,
+				B3C0C5980F7201ED00ED054D /* Death Star, 13.txt */,
+				B3C0C5990F7201EE00ED054D /* Death Star, 14.txt */,
+				B3C0C59A0F7201EE00ED054D /* Death Star, 15.txt */,
+				B3C0C59B0F7201EE00ED054D /* Death Star, 16.txt */,
+				B3C0C59C0F7201EE00ED054D /* Death Star, 17.txt */,
+				B3C0C59D0F7201EE00ED054D /* Death Star, 18.txt */,
+				B3C0C59E0F7201EE00ED054D /* Death Star, 19.txt */,
+				B3C0C59F0F7201EE00ED054D /* Death Star, 20.txt */,
+				B3C0C5A00F7201EE00ED054D /* Death Star, 21.txt */,
+				B3C0C5A10F7201EE00ED054D /* Death Star, 22.txt */,
+				B3C0C5A20F7201EF00ED054D /* Death Star, 23.txt */,
+				B3C0C5A30F7201EF00ED054D /* Death Star, 24.txt */,
+				B3C0C5A40F7201EF00ED054D /* Death Star, 25.txt */,
+				B3C0C5A50F7201EF00ED054D /* Heir to the Empire, 01.txt */,
+				B3C0C5A60F7201EF00ED054D /* Heir to the Empire, 02.txt */,
+				B3C0C5A70F7201EF00ED054D /* Heir to the Empire, 03.txt */,
+				B3C0C5A80F7201EF00ED054D /* Heir to the Empire, 04.txt */,
+				B3C0C5A90F7201EF00ED054D /* Heir to the Empire, 05.txt */,
+				B3C0C5AA0F7201F000ED054D /* Heir to the Empire, 06.txt */,
+				B3C0C5AB0F7201F000ED054D /* Heir to the Empire, 07.txt */,
+				B3C0C5AC0F7201F000ED054D /* Heir to the Empire, 08.txt */,
+				B3C0C5AD0F7201F000ED054D /* Heir to the Empire, 09.txt */,
+				B3C0C5AE0F7201F000ED054D /* Heir to the Empire, 10.txt */,
+				B3C0C5AF0F7201F000ED054D /* Heir to the Empire, 11.txt */,
+				B3C0C5B00F7201F000ED054D /* Heir to the Empire, 12.txt */,
+				B3C0C5B10F7201F100ED054D /* Heir to the Empire, 13.txt */,
+				B3C0C5B20F7201F100ED054D /* Heir to the Empire, 14.txt */,
+				B3C0C5B30F7201F100ED054D /* Heir to the Empire, 15.txt */,
+				B3C0C5B40F7201F100ED054D /* Heir to the Empire, 16.txt */,
+				B3C0C5B50F7201F100ED054D /* Heir to the Empire, 17.txt */,
+				B3C0C5B60F7201F100ED054D /* Heir to the Empire, 18.txt */,
+				B3C0C5B70F7201F100ED054D /* Heir to the Empire, 19.txt */,
+				B3C0C5B80F7201F100ED054D /* Heir to the Empire, 20.txt */,
+				B3C0C5B90F7201F200ED054D /* Heir to the Empire, 21.txt */,
+				B3C0C5BA0F7201F200ED054D /* Heir to the Empire, 22.txt */,
+				B3C0C5BB0F7201F200ED054D /* Heir to the Empire, 23.txt */,
+				B3C0C5BC0F7201F200ED054D /* Heir to the Empire, 24.txt */,
+				B3C0C5BD0F7201F200ED054D /* Heir to the Empire, 25.txt */,
+				70B105670EDA8348001AA3BD /* Interview_01.txt */,
+				70B105680EDA8348001AA3BD /* Interview_02.txt */,
+				70B105690EDA8348001AA3BD /* Interview_03.txt */,
+				70B1056A0EDA8348001AA3BD /* Interview_04.txt */,
+				70B1056B0EDA8348001AA3BD /* Interview_05.txt */,
+				70B1056C0EDA8348001AA3BD /* Interview_06.txt */,
+				70B1056D0EDA8348001AA3BD /* Interview_07.txt */,
+				70B1056E0EDA8348001AA3BD /* Interview_08.txt */,
+				70B1056F0EDA8348001AA3BD /* Interview_09.txt */,
+				70B105700EDA8348001AA3BD /* Interview_10.txt */,
+				70B105710EDA8348001AA3BD /* Interview_11.txt */,
+				70B105720EDA8348001AA3BD /* Interview_12.txt */,
+				70B105730EDA8348001AA3BD /* Interview_13.txt */,
+				70B105740EDA8348001AA3BD /* Interview_14.txt */,
+				70B105750EDA8348001AA3BD /* Interview_15.txt */,
+				70B105760EDA8348001AA3BD /* Interview_16.txt */,
+				70B105770EDA8348001AA3BD /* Interview_17.txt */,
+				70B105780EDA8348001AA3BD /* Interview_18.txt */,
+				70B105790EDA8348001AA3BD /* Interview_19.txt */,
+				70B1057A0EDA8348001AA3BD /* Interview_20.txt */,
+				70B1057B0EDA8348001AA3BD /* Interview_21.txt */,
+				70B1057C0EDA8348001AA3BD /* Interview_22.txt */,
+				70B1057D0EDA8348001AA3BD /* Interview_23.txt */,
+				70B1057E0EDA8348001AA3BD /* Interview_24.txt */,
+				70B1057F0EDA8348001AA3BD /* Interview_25.txt */,
+				70B105800EDA8348001AA3BD /* Interview_26.txt */,
+				70B105810EDA8348001AA3BD /* Interview_27.txt */,
+				70B105820EDA8348001AA3BD /* Interview_28.txt */,
+				70B105830EDA8348001AA3BD /* Interview_29.txt */,
+				70B105840EDA8348001AA3BD /* Interview_30.txt */,
+				70B105850EDA8348001AA3BD /* Interview_31.txt */,
+				70B105860EDA8348001AA3BD /* Interview_32.txt */,
+				70B105870EDA8348001AA3BD /* Interview_33.txt */,
+				70B105880EDA8348001AA3BD /* Interview_34.txt */,
+				70FDA5080E9D713C00D02EE5 /* Nutcracker_Coup_01.txt */,
+				70FDA5090E9D713C00D02EE5 /* Nutcracker_Coup_02.txt */,
+				70FDA50A0E9D713C00D02EE5 /* Nutcracker_Coup_03.txt */,
+				70FDA50B0E9D713C00D02EE5 /* Nutcracker_Coup_04.txt */,
+				70FDA50C0E9D713C00D02EE5 /* Nutcracker_Coup_05.txt */,
+				70FDA50D0E9D713C00D02EE5 /* Nutcracker_Coup_06.txt */,
+				70FDA50E0E9D713C00D02EE5 /* Nutcracker_Coup_07.txt */,
+				70FDA50F0E9D713C00D02EE5 /* Nutcracker_Coup_08.txt */,
+				70FDA5100E9D713C00D02EE5 /* Nutcracker_Coup_09.txt */,
+				70FDA5110E9D713C00D02EE5 /* Nutcracker_Coup_10.txt */,
+				70F4F4FC0E5CFFBB007DBDAC /* biR2bg.jpg */,
+				70D51CF30E6D1FEC00042B84 /* Darth Bane 2, Chapter 01.txt */,
+				70D51CF40E6D1FEC00042B84 /* Darth Bane 2, Chapter 02.txt */,
+				70D51CF50E6D1FEC00042B84 /* Darth Bane 2, Chapter 03.txt */,
+				70D51CF60E6D1FEC00042B84 /* Darth Bane 2, Chapter 04.txt */,
+				70D51CF70E6D1FEC00042B84 /* Darth Bane 2, Chapter 05.txt */,
+				70D51CF80E6D1FEC00042B84 /* Darth Bane 2, Chapter 06.txt */,
+				70D51CF90E6D1FEC00042B84 /* Darth Bane 2, Chapter 07.txt */,
+				70D51CFA0E6D1FEC00042B84 /* Darth Bane 2, Chapter 08.txt */,
+				70D51CFB0E6D1FEC00042B84 /* Darth Bane 2, Chapter 09.txt */,
+				70D51CFC0E6D1FEC00042B84 /* Darth Bane 2, Chapter 10.txt */,
+				70D51CFD0E6D1FEC00042B84 /* Darth Bane 2, Chapter 11.txt */,
+				70D51CFE0E6D1FEC00042B84 /* Darth Bane 2, Chapter 12.txt */,
+				70D51CFF0E6D1FEC00042B84 /* Darth Bane 2, Chapter 13.txt */,
+				70D51D000E6D1FEC00042B84 /* Darth Bane 2, Chapter 14.txt */,
+				70D51D010E6D1FEC00042B84 /* Darth Bane 2, Chapter 15.txt */,
+				70D51D020E6D1FEC00042B84 /* Darth Bane 2, Chapter 16.txt */,
+				70D51D030E6D1FEC00042B84 /* Darth Bane 2, Chapter 17.txt */,
+				70D51D040E6D1FEC00042B84 /* Darth Bane 2, Chapter 18.txt */,
+				70D51D050E6D1FEC00042B84 /* Darth Bane 2, Chapter 19.txt */,
+				70D51D060E6D1FEC00042B84 /* Darth Bane 2, Chapter 20.txt */,
+				70D51D070E6D1FEC00042B84 /* Darth Bane 2, Chapter 21.txt */,
+				70D51D080E6D1FEC00042B84 /* Darth Bane 2, Chapter 22.txt */,
+				70D51D090E6D1FEC00042B84 /* Darth Bane 2, Chapter 23.txt */,
+				70D51D0A0E6D1FEC00042B84 /* Darth Bane 2, Chapter 24.txt */,
+				70D51CF10E6D1FDF00042B84 /* Darth Bane 2, Intro.txt */,
+				70FF21D50E6482DD00ABE8F6 /* Darth Bane, Chapter 01.txt */,
+				70FF21D60E6482DD00ABE8F6 /* Darth Bane, Chapter 02.txt */,
+				70FF21D70E6482DD00ABE8F6 /* Darth Bane, Chapter 03.txt */,
+				70FF21D80E6482DD00ABE8F6 /* Darth Bane, Chapter 04.txt */,
+				70FF21D90E6482DD00ABE8F6 /* Darth Bane, Chapter 05.txt */,
+				70FF21DA0E6482DD00ABE8F6 /* Darth Bane, Chapter 06.txt */,
+				70FF21DB0E6482DD00ABE8F6 /* Darth Bane, Chapter 07.txt */,
+				70FF21DC0E6482DD00ABE8F6 /* Darth Bane, Chapter 08.txt */,
+				70FF21DD0E6482DD00ABE8F6 /* Darth Bane, Chapter 09.txt */,
+				70FF21DE0E6482DD00ABE8F6 /* Darth Bane, Chapter 10.txt */,
+				70FF21DF0E6482DD00ABE8F6 /* Darth Bane, Chapter 11.txt */,
+				70FF21E00E6482DD00ABE8F6 /* Darth Bane, Chapter 12.txt */,
+				70FF21E10E6482DD00ABE8F6 /* Darth Bane, Chapter 13.txt */,
+				70FF21E20E6482DD00ABE8F6 /* Darth Bane, Chapter 14.txt */,
+				70FF21E30E6482DD00ABE8F6 /* Darth Bane, Chapter 15.txt */,
+				70FF21E40E6482DD00ABE8F6 /* Darth Bane, Chapter 16.txt */,
+				70FF21E50E6482DD00ABE8F6 /* Darth Bane, Chapter 17.txt */,
+				70FF21E60E6482DD00ABE8F6 /* Darth Bane, Chapter 18.txt */,
+				70FF21E70E6482DD00ABE8F6 /* Darth Bane, Chapter 20.txt */,
+				70FF21E80E6482DD00ABE8F6 /* Darth Bane, Chapter 21.txt */,
+				70FF21E90E6482DD00ABE8F6 /* Darth Bane, Chapter 22.txt */,
+				70FF21EA0E6482DD00ABE8F6 /* Darth Bane, Chapter 23.txt */,
+				70FF21EB0E6482DD00ABE8F6 /* Darth Bane, Chapter 24.txt */,
+				70FF21EC0E6482DD00ABE8F6 /* Darth Bane, Chapter 25.txt */,
+				70FF21ED0E6482DD00ABE8F6 /* Darth Bane, Chapter 26.txt */,
+				70FF21EE0E6482DD00ABE8F6 /* Darth Bane, Chapter 27.txt */,
+				70FF21EF0E6482DD00ABE8F6 /* Darth Bane, Chapter 28.txt */,
+				70FF21F00E6482DD00ABE8F6 /* Darth Bane, Chapter 29.txt */,
+				70FF21F10E6482DD00ABE8F6 /* Darth Bane, Chapter 30.txt */,
+				70FF21F20E6482DD00ABE8F6 /* Darth Bane, Chapter 31.txt */,
+				70FF21F30E6482DD00ABE8F6 /* Darth Bane, Intro.txt */,
+				70F4F4F00E5CFF43007DBDAC /* library.png */,
+				70F4F3E60E5CF554007DBDAC /* Star Wars, Cloak of Deception.txt */,
+				70F4F3EE0E5CF554007DBDAC /* The Chronicles of Narnia.txt */,
+				2899E5210DE3E06400AC0155 /* ReadViewController.xib */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				70F4F3A40E5CF0D6007DBDAC /* CoreGraphics.framework */,
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		709E40C00E783B3F00292D37 /* Modal */ = {
+			isa = PBXGroup;
+			children = (
+				709E40C40E783FB400292D37 /* OptionsViewController.h */,
+				709E40C50E783FB400292D37 /* OptionsViewController.m */,
+				709E40D20E78400200292D37 /* OptionsView.xib */,
+			);
+			name = Modal;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* Read */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Read" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Read;
+			productName = Read;
+			productReference = 1D6058910D05DD3D006BFB54 /* Read.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Read" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* Read */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				2899E5220DE3E06400AC0155 /* ReadViewController.xib in Resources */,
+				70F4F3EF0E5CF554007DBDAC /* Star Wars, Cloak of Deception.txt in Resources */,
+				70F4F3F70E5CF554007DBDAC /* The Chronicles of Narnia.txt in Resources */,
+				70F4F43C0E5CF86B007DBDAC /* BookView.xib in Resources */,
+				70F4F4F10E5CFF43007DBDAC /* library.png in Resources */,
+				70F4F4FD0E5CFFBB007DBDAC /* biR2bg.jpg in Resources */,
+				70FF21F40E6482DD00ABE8F6 /* Darth Bane, Chapter 01.txt in Resources */,
+				70FF21F50E6482DD00ABE8F6 /* Darth Bane, Chapter 02.txt in Resources */,
+				70FF21F60E6482DD00ABE8F6 /* Darth Bane, Chapter 03.txt in Resources */,
+				70FF21F70E6482DD00ABE8F6 /* Darth Bane, Chapter 04.txt in Resources */,
+				70FF21F80E6482DD00ABE8F6 /* Darth Bane, Chapter 05.txt in Resources */,
+				70FF21F90E6482DD00ABE8F6 /* Darth Bane, Chapter 06.txt in Resources */,
+				70FF21FA0E6482DD00ABE8F6 /* Darth Bane, Chapter 07.txt in Resources */,
+				70FF21FB0E6482DD00ABE8F6 /* Darth Bane, Chapter 08.txt in Resources */,
+				70FF21FC0E6482DD00ABE8F6 /* Darth Bane, Chapter 09.txt in Resources */,
+				70FF21FD0E6482DD00ABE8F6 /* Darth Bane, Chapter 10.txt in Resources */,
+				70FF21FE0E6482DD00ABE8F6 /* Darth Bane, Chapter 11.txt in Resources */,
+				70FF21FF0E6482DD00ABE8F6 /* Darth Bane, Chapter 12.txt in Resources */,
+				70FF22000E6482DD00ABE8F6 /* Darth Bane, Chapter 13.txt in Resources */,
+				70FF22010E6482DD00ABE8F6 /* Darth Bane, Chapter 14.txt in Resources */,
+				70FF22020E6482DD00ABE8F6 /* Darth Bane, Chapter 15.txt in Resources */,
+				70FF22030E6482DD00ABE8F6 /* Darth Bane, Chapter 16.txt in Resources */,
+				70FF22040E6482DD00ABE8F6 /* Darth Bane, Chapter 17.txt in Resources */,
+				70FF22050E6482DD00ABE8F6 /* Darth Bane, Chapter 18.txt in Resources */,
+				70FF22060E6482DD00ABE8F6 /* Darth Bane, Chapter 20.txt in Resources */,
+				70FF22070E6482DD00ABE8F6 /* Darth Bane, Chapter 21.txt in Resources */,
+				70FF22080E6482DD00ABE8F6 /* Darth Bane, Chapter 22.txt in Resources */,
+				70FF22090E6482DD00ABE8F6 /* Darth Bane, Chapter 23.txt in Resources */,
+				70FF220A0E6482DD00ABE8F6 /* Darth Bane, Chapter 24.txt in Resources */,
+				70FF220B0E6482DD00ABE8F6 /* Darth Bane, Chapter 25.txt in Resources */,
+				70FF220C0E6482DD00ABE8F6 /* Darth Bane, Chapter 26.txt in Resources */,
+				70FF220D0E6482DD00ABE8F6 /* Darth Bane, Chapter 27.txt in Resources */,
+				70FF220E0E6482DD00ABE8F6 /* Darth Bane, Chapter 28.txt in Resources */,
+				70FF220F0E6482DD00ABE8F6 /* Darth Bane, Chapter 29.txt in Resources */,
+				70FF22100E6482DD00ABE8F6 /* Darth Bane, Chapter 30.txt in Resources */,
+				70FF22110E6482DD00ABE8F6 /* Darth Bane, Chapter 31.txt in Resources */,
+				70FF22120E6482DD00ABE8F6 /* Darth Bane, Intro.txt in Resources */,
+				70D51CF20E6D1FDF00042B84 /* Darth Bane 2, Intro.txt in Resources */,
+				70D51D0B0E6D1FEC00042B84 /* Darth Bane 2, Chapter 01.txt in Resources */,
+				70D51D0C0E6D1FEC00042B84 /* Darth Bane 2, Chapter 02.txt in Resources */,
+				70D51D0D0E6D1FEC00042B84 /* Darth Bane 2, Chapter 03.txt in Resources */,
+				70D51D0E0E6D1FEC00042B84 /* Darth Bane 2, Chapter 04.txt in Resources */,
+				70D51D0F0E6D1FEC00042B84 /* Darth Bane 2, Chapter 05.txt in Resources */,
+				70D51D100E6D1FEC00042B84 /* Darth Bane 2, Chapter 06.txt in Resources */,
+				70D51D110E6D1FEC00042B84 /* Darth Bane 2, Chapter 07.txt in Resources */,
+				70D51D120E6D1FEC00042B84 /* Darth Bane 2, Chapter 08.txt in Resources */,
+				70D51D130E6D1FEC00042B84 /* Darth Bane 2, Chapter 09.txt in Resources */,
+				70D51D140E6D1FEC00042B84 /* Darth Bane 2, Chapter 10.txt in Resources */,
+				70D51D150E6D1FEC00042B84 /* Darth Bane 2, Chapter 11.txt in Resources */,
+				70D51D160E6D1FEC00042B84 /* Darth Bane 2, Chapter 12.txt in Resources */,
+				70D51D170E6D1FEC00042B84 /* Darth Bane 2, Chapter 13.txt in Resources */,
+				70D51D180E6D1FEC00042B84 /* Darth Bane 2, Chapter 14.txt in Resources */,
+				70D51D190E6D1FEC00042B84 /* Darth Bane 2, Chapter 15.txt in Resources */,
+				70D51D1A0E6D1FEC00042B84 /* Darth Bane 2, Chapter 16.txt in Resources */,
+				70D51D1B0E6D1FEC00042B84 /* Darth Bane 2, Chapter 17.txt in Resources */,
+				70D51D1C0E6D1FEC00042B84 /* Darth Bane 2, Chapter 18.txt in Resources */,
+				70D51D1D0E6D1FEC00042B84 /* Darth Bane 2, Chapter 19.txt in Resources */,
+				70D51D1E0E6D1FEC00042B84 /* Darth Bane 2, Chapter 20.txt in Resources */,
+				70D51D1F0E6D1FEC00042B84 /* Darth Bane 2, Chapter 21.txt in Resources */,
+				70D51D200E6D1FEC00042B84 /* Darth Bane 2, Chapter 22.txt in Resources */,
+				70D51D210E6D1FEC00042B84 /* Darth Bane 2, Chapter 23.txt in Resources */,
+				70D51D220E6D1FEC00042B84 /* Darth Bane 2, Chapter 24.txt in Resources */,
+				709E40D30E78400200292D37 /* OptionsView.xib in Resources */,
+				70FDA5120E9D713C00D02EE5 /* Nutcracker_Coup_01.txt in Resources */,
+				70FDA5130E9D713C00D02EE5 /* Nutcracker_Coup_02.txt in Resources */,
+				70FDA5140E9D713C00D02EE5 /* Nutcracker_Coup_03.txt in Resources */,
+				70FDA5150E9D713C00D02EE5 /* Nutcracker_Coup_04.txt in Resources */,
+				70FDA5160E9D713C00D02EE5 /* Nutcracker_Coup_05.txt in Resources */,
+				70FDA5170E9D713C00D02EE5 /* Nutcracker_Coup_06.txt in Resources */,
+				70FDA5180E9D713C00D02EE5 /* Nutcracker_Coup_07.txt in Resources */,
+				70FDA5190E9D713C00D02EE5 /* Nutcracker_Coup_08.txt in Resources */,
+				70FDA51A0E9D713C00D02EE5 /* Nutcracker_Coup_09.txt in Resources */,
+				70FDA51B0E9D713C00D02EE5 /* Nutcracker_Coup_10.txt in Resources */,
+				70B105890EDA8348001AA3BD /* Interview_01.txt in Resources */,
+				70B1058A0EDA8348001AA3BD /* Interview_02.txt in Resources */,
+				70B1058B0EDA8348001AA3BD /* Interview_03.txt in Resources */,
+				70B1058C0EDA8348001AA3BD /* Interview_04.txt in Resources */,
+				70B1058D0EDA8348001AA3BD /* Interview_05.txt in Resources */,
+				70B1058E0EDA8348001AA3BD /* Interview_06.txt in Resources */,
+				70B1058F0EDA8348001AA3BD /* Interview_07.txt in Resources */,
+				70B105900EDA8348001AA3BD /* Interview_08.txt in Resources */,
+				70B105910EDA8348001AA3BD /* Interview_09.txt in Resources */,
+				70B105920EDA8348001AA3BD /* Interview_10.txt in Resources */,
+				70B105930EDA8348001AA3BD /* Interview_11.txt in Resources */,
+				70B105940EDA8348001AA3BD /* Interview_12.txt in Resources */,
+				70B105950EDA8348001AA3BD /* Interview_13.txt in Resources */,
+				70B105960EDA8348001AA3BD /* Interview_14.txt in Resources */,
+				70B105970EDA8348001AA3BD /* Interview_15.txt in Resources */,
+				70B105980EDA8348001AA3BD /* Interview_16.txt in Resources */,
+				70B105990EDA8348001AA3BD /* Interview_17.txt in Resources */,
+				70B1059A0EDA8348001AA3BD /* Interview_18.txt in Resources */,
+				70B1059B0EDA8348001AA3BD /* Interview_19.txt in Resources */,
+				70B1059C0EDA8348001AA3BD /* Interview_20.txt in Resources */,
+				70B1059D0EDA8348001AA3BD /* Interview_21.txt in Resources */,
+				70B1059E0EDA8348001AA3BD /* Interview_22.txt in Resources */,
+				70B1059F0EDA8348001AA3BD /* Interview_23.txt in Resources */,
+				70B105A00EDA8348001AA3BD /* Interview_24.txt in Resources */,
+				70B105A10EDA8348001AA3BD /* Interview_25.txt in Resources */,
+				70B105A20EDA8348001AA3BD /* Interview_26.txt in Resources */,
+				70B105A30EDA8348001AA3BD /* Interview_27.txt in Resources */,
+				70B105A40EDA8348001AA3BD /* Interview_28.txt in Resources */,
+				70B105A50EDA8348001AA3BD /* Interview_29.txt in Resources */,
+				70B105A60EDA8348001AA3BD /* Interview_30.txt in Resources */,
+				70B105A70EDA8348001AA3BD /* Interview_31.txt in Resources */,
+				70B105A80EDA8348001AA3BD /* Interview_32.txt in Resources */,
+				70B105A90EDA8348001AA3BD /* Interview_33.txt in Resources */,
+				70B105AA0EDA8348001AA3BD /* Interview_34.txt in Resources */,
+				B3C0C5BE0F7201F200ED054D /* Death Star, 01.txt in Resources */,
+				B3C0C5BF0F7201F200ED054D /* Death Star, 02.txt in Resources */,
+				B3C0C5C00F7201F200ED054D /* Death Star, 03.txt in Resources */,
+				B3C0C5C10F7201F200ED054D /* Death Star, 04.txt in Resources */,
+				B3C0C5C20F7201F200ED054D /* Death Star, 05.txt in Resources */,
+				B3C0C5C30F7201F200ED054D /* Death Star, 06.txt in Resources */,
+				B3C0C5C40F7201F200ED054D /* Death Star, 07.txt in Resources */,
+				B3C0C5C50F7201F200ED054D /* Death Star, 08.txt in Resources */,
+				B3C0C5C60F7201F200ED054D /* Death Star, 09.txt in Resources */,
+				B3C0C5C70F7201F200ED054D /* Death Star, 10.txt in Resources */,
+				B3C0C5C80F7201F200ED054D /* Death Star, 11.txt in Resources */,
+				B3C0C5C90F7201F200ED054D /* Death Star, 12.txt in Resources */,
+				B3C0C5CA0F7201F200ED054D /* Death Star, 13.txt in Resources */,
+				B3C0C5CB0F7201F200ED054D /* Death Star, 14.txt in Resources */,
+				B3C0C5CC0F7201F200ED054D /* Death Star, 15.txt in Resources */,
+				B3C0C5CD0F7201F200ED054D /* Death Star, 16.txt in Resources */,
+				B3C0C5CE0F7201F200ED054D /* Death Star, 17.txt in Resources */,
+				B3C0C5CF0F7201F200ED054D /* Death Star, 18.txt in Resources */,
+				B3C0C5D00F7201F200ED054D /* Death Star, 19.txt in Resources */,
+				B3C0C5D10F7201F200ED054D /* Death Star, 20.txt in Resources */,
+				B3C0C5D20F7201F200ED054D /* Death Star, 21.txt in Resources */,
+				B3C0C5D30F7201F200ED054D /* Death Star, 22.txt in Resources */,
+				B3C0C5D40F7201F200ED054D /* Death Star, 23.txt in Resources */,
+				B3C0C5D50F7201F200ED054D /* Death Star, 24.txt in Resources */,
+				B3C0C5D60F7201F200ED054D /* Death Star, 25.txt in Resources */,
+				B3C0C5D70F7201F200ED054D /* Heir to the Empire, 01.txt in Resources */,
+				B3C0C5D80F7201F200ED054D /* Heir to the Empire, 02.txt in Resources */,
+				B3C0C5D90F7201F200ED054D /* Heir to the Empire, 03.txt in Resources */,
+				B3C0C5DA0F7201F200ED054D /* Heir to the Empire, 04.txt in Resources */,
+				B3C0C5DB0F7201F200ED054D /* Heir to the Empire, 05.txt in Resources */,
+				B3C0C5DC0F7201F200ED054D /* Heir to the Empire, 06.txt in Resources */,
+				B3C0C5DD0F7201F200ED054D /* Heir to the Empire, 07.txt in Resources */,
+				B3C0C5DE0F7201F200ED054D /* Heir to the Empire, 08.txt in Resources */,
+				B3C0C5DF0F7201F200ED054D /* Heir to the Empire, 09.txt in Resources */,
+				B3C0C5E00F7201F200ED054D /* Heir to the Empire, 10.txt in Resources */,
+				B3C0C5E10F7201F200ED054D /* Heir to the Empire, 11.txt in Resources */,
+				B3C0C5E20F7201F200ED054D /* Heir to the Empire, 12.txt in Resources */,
+				B3C0C5E30F7201F200ED054D /* Heir to the Empire, 13.txt in Resources */,
+				B3C0C5E40F7201F200ED054D /* Heir to the Empire, 14.txt in Resources */,
+				B3C0C5E50F7201F200ED054D /* Heir to the Empire, 15.txt in Resources */,
+				B3C0C5E60F7201F200ED054D /* Heir to the Empire, 16.txt in Resources */,
+				B3C0C5E70F7201F200ED054D /* Heir to the Empire, 17.txt in Resources */,
+				B3C0C5E80F7201F200ED054D /* Heir to the Empire, 18.txt in Resources */,
+				B3C0C5E90F7201F200ED054D /* Heir to the Empire, 19.txt in Resources */,
+				B3C0C5EA0F7201F200ED054D /* Heir to the Empire, 20.txt in Resources */,
+				B3C0C5EB0F7201F200ED054D /* Heir to the Empire, 21.txt in Resources */,
+				B3C0C5EC0F7201F200ED054D /* Heir to the Empire, 22.txt in Resources */,
+				B3C0C5ED0F7201F200ED054D /* Heir to the Empire, 23.txt in Resources */,
+				B3C0C5EE0F7201F200ED054D /* Heir to the Empire, 24.txt in Resources */,
+				B3C0C5EF0F7201F200ED054D /* Heir to the Empire, 25.txt in Resources */,
+				B3E521930F72946D006F85E3 /* Blood Ties, Book 01 Part 01.txt in Resources */,
+				B3E521940F72946D006F85E3 /* Blood Ties, Book 01 Part 02.txt in Resources */,
+				B3E521950F72946D006F85E3 /* Blood Ties, Book 01 Part 03.txt in Resources */,
+				B3E521960F72946D006F85E3 /* Blood Ties, Book 01 Part 04.txt in Resources */,
+				B3E521970F72946D006F85E3 /* Blood Ties, Book 01 Part 05.txt in Resources */,
+				B3E521980F72946D006F85E3 /* Blood Ties, Book 01 Part 06.txt in Resources */,
+				B3E521990F72946D006F85E3 /* Blood Ties, Book 01 Part 07.txt in Resources */,
+				B3E5219A0F72946D006F85E3 /* Blood Ties, Book 01 Part 08.txt in Resources */,
+				B3E5219B0F72946D006F85E3 /* Blood Ties, Book 01 Part 09.txt in Resources */,
+				B3E5219C0F72946D006F85E3 /* Blood Ties, Book 01 Part 10.txt in Resources */,
+				B3E5219D0F72946D006F85E3 /* Blood Ties, Book 01 Part 11.txt in Resources */,
+				B3E5219E0F72946D006F85E3 /* Blood Ties, Book 01 Part 12.txt in Resources */,
+				B3E5219F0F72946D006F85E3 /* Blood Ties, Book 01 Part 13.txt in Resources */,
+				B3E521A00F72946D006F85E3 /* Blood Ties, Book 01 Part 14.txt in Resources */,
+				B3E521A10F72946D006F85E3 /* Blood Ties, Book 01 Part 15.txt in Resources */,
+				B3E521A20F72946D006F85E3 /* Blood Ties, Book 01 Part 16.txt in Resources */,
+				B3E521A30F72946D006F85E3 /* Blood Ties, Book 01 Part 17.txt in Resources */,
+				B3E521A40F72946D006F85E3 /* Blood Ties, Book 01 Part 18.txt in Resources */,
+				B3E521A50F72946D006F85E3 /* Blood Ties, Book 01 Part 19.txt in Resources */,
+				B3E521A60F72946D006F85E3 /* Blood Ties, Book 01 Part 20.txt in Resources */,
+				B3E521C00F729488006F85E3 /* Dead_Until_Dark_01.txt in Resources */,
+				B3E521C10F729488006F85E3 /* Dead_Until_Dark_02.txt in Resources */,
+				B3E521C20F729488006F85E3 /* Dead_Until_Dark_03.txt in Resources */,
+				B3E521C30F729488006F85E3 /* Dead_Until_Dark_04.txt in Resources */,
+				B3E521C40F729488006F85E3 /* Dead_Until_Dark_05.txt in Resources */,
+				B3E521C50F729488006F85E3 /* Dead_Until_Dark_06.txt in Resources */,
+				B3E521C60F729488006F85E3 /* Dead_Until_Dark_07.txt in Resources */,
+				B3E521C70F729488006F85E3 /* Dead_Until_Dark_08.txt in Resources */,
+				B3E521C80F729488006F85E3 /* Dead_Until_Dark_09.txt in Resources */,
+				B3E521C90F729488006F85E3 /* Dead_Until_Dark_10.txt in Resources */,
+				B3E521CA0F729488006F85E3 /* Dead_Until_Dark_11.txt in Resources */,
+				B3E521CB0F729488006F85E3 /* Dead_Until_Dark_12.txt in Resources */,
+				B3E521CC0F729488006F85E3 /* Dead_Until_Dark_13.txt in Resources */,
+				B3E521CD0F729488006F85E3 /* Dead_Until_Dark_14.txt in Resources */,
+				B3E521CE0F729488006F85E3 /* Dead_Until_Dark_15.txt in Resources */,
+				B3E521CF0F729488006F85E3 /* Dead_Until_Dark_16.txt in Resources */,
+				B3E521D00F729488006F85E3 /* Dead_Until_Dark_17.txt in Resources */,
+				B3E521D10F729488006F85E3 /* Dead_Until_Dark_18.txt in Resources */,
+				B3E521D20F729488006F85E3 /* Dead_Until_Dark_19.txt in Resources */,
+				B3E521D30F729488006F85E3 /* Dead_Until_Dark_20.txt in Resources */,
+				B3E521D40F729488006F85E3 /* Dead_Until_Dark_21.txt in Resources */,
+				B3E521D50F729488006F85E3 /* Dead_Until_Dark_22.txt in Resources */,
+				B3E521D60F729488006F85E3 /* Dead_Until_Dark_23.txt in Resources */,
+				B3E521D70F729488006F85E3 /* Dead_Until_Dark_24.txt in Resources */,
+				B3E521D80F729488006F85E3 /* Dead_Until_Dark_25.txt in Resources */,
+				B3E521EC0F72949A006F85E3 /* Gardella, Book 1, 01.txt in Resources */,
+				B3E521ED0F72949A006F85E3 /* Gardella, Book 1, 02.txt in Resources */,
+				B3E521EE0F72949A006F85E3 /* Gardella, Book 1, 03.txt in Resources */,
+				B3E521EF0F72949A006F85E3 /* Gardella, Book 1, 04.txt in Resources */,
+				B3E521F00F72949A006F85E3 /* Gardella, Book 1, 05.txt in Resources */,
+				B3E521F10F72949A006F85E3 /* Gardella, Book 1, 06.txt in Resources */,
+				B3E521F20F72949A006F85E3 /* Gardella, Book 1, 07.txt in Resources */,
+				B3E521F30F72949A006F85E3 /* Gardella, Book 1, 08.txt in Resources */,
+				B3E521F40F72949A006F85E3 /* Gardella, Book 1, 09.txt in Resources */,
+				B3E521F50F72949A006F85E3 /* Gardella, Book 1, 10.txt in Resources */,
+				B3E521F60F72949A006F85E3 /* Gardella, Book 1, 11.txt in Resources */,
+				B3E521F70F72949A006F85E3 /* Gardella, Book 1, 12.txt in Resources */,
+				B3E521F80F72949A006F85E3 /* Gardella, Book 1, 13.txt in Resources */,
+				B3E521F90F72949A006F85E3 /* Gardella, Book 1, 14.txt in Resources */,
+				B3E521FA0F72949A006F85E3 /* Gardella, Book 1, 15.txt in Resources */,
+				B3E521FB0F72949A006F85E3 /* Gardella, Book 1, 16.txt in Resources */,
+				B3E521FC0F72949A006F85E3 /* Gardella, Book 1, 17.txt in Resources */,
+				B3E521FD0F72949A006F85E3 /* Gardella, Book 1, 18.txt in Resources */,
+				B3E521FE0F72949A006F85E3 /* Gardella, Book 1, 19.txt in Resources */,
+				B3E522130F7294BA006F85E3 /* Mummy or Ramses, Part 01.txt in Resources */,
+				B3E522140F7294BA006F85E3 /* Mummy or Ramses, Part 02.txt in Resources */,
+				B3E522150F7294BA006F85E3 /* Mummy or Ramses, Part 03.txt in Resources */,
+				B3E522160F7294BA006F85E3 /* Mummy or Ramses, Part 04.txt in Resources */,
+				B3E522170F7294BA006F85E3 /* Mummy or Ramses, Part 05.txt in Resources */,
+				B3E522180F7294BA006F85E3 /* Mummy or Ramses, Part 06.txt in Resources */,
+				B3E522190F7294BA006F85E3 /* Mummy or Ramses, Part 07.txt in Resources */,
+				B3E5221A0F7294BA006F85E3 /* Mummy or Ramses, Part 08.txt in Resources */,
+				B3E5221B0F7294BA006F85E3 /* Mummy or Ramses, Part 09.txt in Resources */,
+				B3E5221C0F7294BA006F85E3 /* Mummy or Ramses, Part 10.txt in Resources */,
+				B3E5221D0F7294BA006F85E3 /* Mummy or Ramses, Part 11.txt in Resources */,
+				B3E5221E0F7294BA006F85E3 /* Mummy or Ramses, Part 12.txt in Resources */,
+				B3E5221F0F7294BA006F85E3 /* Mummy or Ramses, Part 13.txt in Resources */,
+				B3E522200F7294BA006F85E3 /* Mummy or Ramses, Part 14.txt in Resources */,
+				B3E522210F7294BA006F85E3 /* Mummy or Ramses, Part 15.txt in Resources */,
+				B3E522220F7294BA006F85E3 /* Mummy or Ramses, Part 16.txt in Resources */,
+				B3E522230F7294BA006F85E3 /* Mummy or Ramses, Part 17.txt in Resources */,
+				B3E522240F7294BA006F85E3 /* Mummy or Ramses, Part 18.txt in Resources */,
+				B3E522250F7294BA006F85E3 /* Mummy or Ramses, Part 19.txt in Resources */,
+				B3E522260F7294BA006F85E3 /* Mummy or Ramses, Part 20.txt in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* ReadAppDelegate.m in Sources */,
+				28D7ACF80DDB3853001CB0EB /* ReadViewController.m in Sources */,
+				70F4F4220E5CF7AE007DBDAC /* BookViewController.m in Sources */,
+				709E40C60E783FB400292D37 /* OptionsViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Matt WEIGHT";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Read_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				PRODUCT_NAME = Read;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Read_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				PRODUCT_NAME = Read;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Matt WEIGHT";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos2.0;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos2.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Read" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Read" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

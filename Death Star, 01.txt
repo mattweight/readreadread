@@ -1,0 +1,816 @@
+S T A R
+W A R S
+ 
+DEATH 
+STAR
+
+by Michael Reaves and Steve Perry
+
+
+Del Rey
+1st edition (October 16, 2007)
+ISBN: 978-0-345-47742-2
+
+
+
+
+
+
+
+For Deborah
+?MR
+
+
+For Dianne, as always,
+And for the new grandkid, Nate
+?SP
+
+
+Acknowledgm
+ents
+ 
+We'd like to thank the usual crew for 
+aiding and abetting: Shelly Shapiro, 
+Keith Clayton, Betsy Mitchell, Sue 
+Rostoni, Leland Chee, Steve 
+Sansweet, and all the folks at Del Rey 
+and Lucasfilm. And especially George 
+Lucas, who made up this wonderful 
+world and allowed us to play in it 
+again.
+
+
+
+
+
+
+"That's no moon. It's a space station."
+ 
+?OBI-WAN-KENOBI
+ 
+ 
+
+
+ 
+ 
+PART ONE
+
+
+Construction
+
+
+1
+
+
+
+
+FLIGHT DECK, IMPERIAL-CLASS STAR 
+DESTROYER STEEL TALON, POLAR 
+ORBIT, PLANET DESPAYRE, HORUZ 
+SYSTEM, ATRIVIS SECTOR, OUTER RIM 
+TERRITORIES
+ 
+ The alert siren screamed, a piercing 
+wail that couldn't be ignored by any 
+being on board with ears and a pulse. 
+It had one thing to say, and it said it 
+loud and clear:
+ Scramble!
+ Lieutenant Commander Villian "Vil" 
+Dance came out of a deep sleep at the 
+blaring alarm, sat up, and leapt from 
+his rack to the expanded metal deck of 
+the Ready Room quarters. Save for 
+the helmet, he already wore his space 
+suit, one of the first things an on-call 
+TIE pilot learned to do was sleep in 
+full battle gear. He ran for the door, 
+half a step ahead of the next pilot to 
+awaken. He grabbed his headgear, 
+darted into the hall and turned to the 
+right, then sprinted for the launching 
+bay.
+ It could be a drill; there had been 
+plenty of those lately to keep the 
+pilots on their toes. But maybe this 
+time it wasn't. One could always 
+hope.
+ Vil ran into the assembly area. A-
+grav on the flight deck was kept at 
+slightly below one g, so that the 
+pilots, all of whom were human or 
+humanoid, could move a little faster 
+and get to their stations a little sooner. 
+The smell of launch lube was acrid in 
+the cold air, and the pulsing lights 
+painted the area in bright, primary 
+flashes. Techs scrambled, getting the 
+TIE fighters to final-set for takeoff, 
+while pilots ran toward the craft. Vil 
+noticed that it was just his squad 
+being scrambled. Must not be a big 
+problem, whatever it was.
+ Command always said it didn't 
+matter which unit you got. TIE 
+fighters were all the same, down to 
+the last nut and bolt, but even so, 
+every pilot had his or her favorite 
+ship. You weren't supposed to 
+personalize them, of course, but there 
+were ways to tell?a scratch here, a 
+scuff mark there . . .  after a while, 
+you got to where you knew which 
+fighter was which. And no matter 
+what Command said, some were 
+better than others?a little faster, a 
+little tighter in the turns, the laser 
+cannons a hair quicker to fire when 
+you touched the stud. Vil happened to 
+know that his assigned ship this 
+rotation was Black-11, one of his 
+favorites. Maybe it was pure 
+superstition, but he breathed just a 
+little easier, knowing that particular 
+craft had his name on it this time 
+around.
+ The command officer on deck, 
+Captain Rax Exeter, waved Vil over.
+ "Cap, what's up? Another drill?"
+ "Negative, Lieutenant. A group of 
+prisoners somehow managed to take 
+over one of the new Lambda-class 
+shuttles. They're trying to get far 
+enough away to make the jump to 
+hyperspace. That isn't going to happen 
+on my watch. The ID codes and 
+tracking will be in your fighter's 
+computer. Don't let 'em get away, 
+son."
+ "No, sir. What about the crew?" Vil 
+knew the new shuttles carried only a 
+pilot and copilot.
+ "Assumed dead. These are bad guys 
+doing this, Dance?traitors and 
+murderers. That's reason enough to 
+cook them, but we do not want them 
+getting away to tell anybody what the 
+Empire is doing out here, do we?"
+ "No, sir!"
+ "Go, Lieutenant, go!"
+ Vil nodded, not bothering to salute, 
+then turned and ran. As he did, he put 
+his helmet on and locked it into place. 
+The hiss of air into his face was 
+metallic and cool as the suit's system 
+went online. It felt very comforting. 
+The vac suit's extreme-temp-resistant 
+weave of durasteel and plastoid, along 
+with the polarizing densecris helmet, 
+were the only things that would 
+protect him from hard vacuum. Suit 
+failure could make a strong man lose 
+consciousness in under ten seconds, 
+and die in under a minute. He'd seen it 
+happen.
+ TIE fighters, in order to save mass, 
+had no defensive shield generators, no 
+hyperdrive capability, and no 
+emergency life-support systems. They 
+were thus fragile, but fast, and that 
+was fine with Vil. He'd rather dodge 
+enemy fire than hope it would bounce 
+off. There was no skill in piloting 
+some lumbering chunk of durasteel; 
+might as well be sitting with your feet 
+up at a turbolaser console back on the 
+ship. Where was the fun in that?
+ The TIE tech had the hatch up on 
+Black-11 as Vil arrived at the gantry 
+above the ship. It was the work of an 
+instant to clamber down and into the 
+fighter's snug cockpit.
+ The hatch came down and hissed 
+shut. Vil touched the power-up stud, 
+and the inside of the TIE?named for 
+the twin ion engines that drove it?lit 
+up. He scanned the controls with a 
+quick and experienced eye. All 
+systems were green.
+ The tech raised his hand in question. 
+Vil waved back. "Go!"
+ "Copy that, ST-One-One. Prepare 
+for insertion."
+ Vil felt his lips twitch in annoyance. 
+The Empire was determined to erase 
+all signs of individuality in its pilots, 
+on the absurd theory that nameless, 
+faceless operators were somehow 
+more effective. Thus the classification 
+numbers, the anonymous flight suits 
+and helmets, and the random rotation 
+of spacecraft. The standardizing 
+approach had worked reasonably well 
+in the Clone Wars, but there was one 
+important difference here: neither Vil 
+nor any other TIE pilot that he knew 
+of was a clone. None of the members 
+of Alpha Squad had any intention of 
+being reduced to automata. If that was 
+what the Empire really wanted, let 
+them use droid pilots and see how 
+well that worked.
+ His musing was interrupted by the 
+small jolt of the cycling rack below 
+the gantry kicking on. Vil's ship began 
+to move toward the launching bay 
+door. He saw the tech slip his own 
+helmet on and lock it down.
+ Already the bay pumps were 
+working full blast, depressurizing the 
+area. By the time the launch doors 
+were open, the air would be cycled. 
+Vil took a deep breath, readying 
+himself for the heavy hand of g-force 
+that would push him back into the seat 
+when the engines hurled him forward.
+ Launch Control's voice crackled in 
+his headphones. "Alpha Squad 
+Leader, stand by for launch."
+ "Copy," Vil said. The launch doors 
+pulled back with tantalizing slowness, 
+the hydraulic thrum of their 
+movement made audible by 
+conduction through the floor and 
+Black-11's frame.
+ "You are go for launch in five, four, 
+three, two . . .  go!"
+ Outside the confines of the Star 
+Destroyer, the vastness of space 
+enveloped Lieutenant Vil Dance as 
+the ion engines pushed the TIE past 
+the last stray wisps of frozen air and 
+into the infinite dark. He grinned. He 
+always did. He couldn't help it.
+ Back where I belong . . . 
+ The flat blackness of space 
+surrounded him. Behind him, he 
+knew, the Steel Talon was seemingly 
+shrinking as they pulled away from it. 
+"Down" and to port was the curvature 
+of the prison planet. Though they 
+were in polar orbit, Despayre's axial 
+tilt showed more of the night side than 
+day. The dark hemisphere was mostly 
+unrelieved blackness, with a few 
+lonely lights here and there.
+ Vil flicked his comm?though it 
+came on automatically at launch, a 
+good pilot always toggled it, just to be 
+sure. "Alpha Squad, pyramid 
+formation on me as soon as you are 
+clear," he said. "Go to tactical channel 
+five, that's tac-fiver, and log in."
+ Vil switched his own comm channel 
+to five. It was a lower-powered band 
+with a shorter range, but that was the 
+point?you didn't want the enemy 
+overhearing you. And in some cases, 
+it wasn't a good idea for the comm 
+officer monitoring you back on the 
+base ship to be privy to conversations, 
+either. They tended to be a bit more 
+informal than the Empire liked.
+ There came a chorus of "Copy, 
+Alpha Leader!" from the other eleven 
+pilots in his squad as they switched 
+over to the new channel.
+ It took only a few seconds for the 
+last fighter to launch, and only a few 
+more for the squad to form behind 
+Vil.
+ "What's the drill, Vil?" That from 
+Benjo, aka ST-1-2, his second in 
+command and right panelman.
+ "Alpha Squadron, we have a 
+Lambda-class shuttle captured by 
+prisoners. They are running for hyper. 
+Either they give up and come back, or 
+we dust 'em."
+ "Lambda-class? That's one of the 
+new ones, right? They have any 
+guns?"
+ Vil sighed. That was Raar Anyell, a 
+Corellian like Vil himself, but not 
+somebody you'd want to hold up as a 
+prime example of the human species. 
+"Don't you bother to read the boards 
+at all, Anyell?"
+ "I was just about to do that, sir, when 
+the alarm went off. Was looking right 
+at 'em. Had the latest notices right in 
+my hand. Sir."
+ The other pilots laughed, and even 
+Vil had to grin. Anyell was a foul-up 
+everywhere except in the cockpit, but 
+he was a good enough pilot that Vil 
+was willing to give him some slice.
+ His sensor screen pinged, giving him 
+an image of their quarry. He altered 
+course to intercept.
+ "Anybody else behind on his 
+homework, listen up," he said. "The 
+Lambda-class shuttle is twenty meters 
+long, has a top speed of fourteen 
+hundred g, a Class-One hyperdrive, 
+and can carry twenty troops in full 
+battle gear?probably a couple more 
+convicts in civvies.
+ "The ship carries three double-
+blaster cannons and two double-laser 
+cannons. It can't accelerate worth a 
+wheep and it turns slower than a 
+comet, but if you get in its sights, it 
+can blow you to itty-bitty pieces. It 
+would be embarrassing to have to 
+inform your family you got shot apart 
+by a shuttle, so stay alert."
+ There came another chorus of 
+acknowledgments:
+ "Copy, sir."
+ "Yes, sir!"
+ "No sweat."
+ "Anyell, I didn't hear your response."
+ "Oh, sorry, sir, I was taking a little 
+nap. What was the question?"
+ Before the squad commander could 
+reply, the shuttle suddenly loomed 
+ahead. It was running as silently as 
+possible, with no lights, but as its 
+orbit brought it across the terminator 
+and out of Despayre's night side, the 
+sunlight struck rays from its hull.
+ "There is our target, four kilometers 
+dead ahead. I want a fast flyby so they 
+can see us, and then I want a fountain 
+pattern dispersal and loop, two klicks 
+minimum distance and bracket, one, 
+four, four, and two, you know who 
+you are. I'll move in close and have a 
+word with whoever they have flying 
+the stolen spacecraft."
+ Benjo: "Aw, Lieutenant, come on, 
+let us have a shot, too."
+ "Negative. If you had a clue about 
+the vessel, I might, but since you're 
+just as likely to shoot each other as 
+the quarry, you'll hold the bracket."
+ More acknowledgments, but without 
+much enthusiasm. He couldn't blame 
+his squad?they hadn't had any action 
+except drills since they'd been 
+assigned to this project?but his 
+secondary goal was to bring all his 
+men back alive. The primary, of 
+course, was to accomplish their 
+mission. He didn't need a squad for 
+this; any fighter pilot worth his spit 
+should be able to deal with a 
+lumbering shuttle, even one with the 
+new-vehicle smell still in it. The 
+Lambda's delta vee wasn't all that 
+efficient, but with constant drive it 
+could get above the solar plane and 
+far enough out of the planet's gravity 
+well to engage its hyperdrive fairly 
+soon?and once it was in the chute, 
+they'd never find it.
+ But that wasn't going to happen.
+ The pyramid-shaped formation 
+zipped past the fleeing shuttle, close 
+enough for Vil to see the pilot sitting 
+in the command seat. He didn't look 
+surprised, of course?he would have 
+seen them coming on the sensors. But 
+he couldn't outrun them, couldn't 
+dodge, and no way could he take out a 
+full squad of TIE fighters even if he 
+was the best gunner who'd ever lived, 
+not in that boat. And anyway, Vil 
+wasn't going to give him the 
+opportunity to try.
+ The squad flowered into the 
+dispersal maneuver as ordered, 
+looping out and away to their 
+assigned positions, angled pressor 
+beams in their arrays providing 
+maneuverability. Vil pulled a high-g 
+tight turn and came around to parallel 
+the shuttle a few hundred meters 
+away, slightly above it. He watched 
+the wing turrets closely. As soon as 
+they started to track him, he jinked to 
+port, then to starboard, slowed, then 
+sped up. They tried to keep up with 
+him, but they were a hair too slow.
+ Vil toggled to a wide-band channel. 
+They'd hear this back in the 
+Destroyer, he knew.
+ "Attention, shuttle RLH-One. Turn 
+the craft around and proceed 
+immediately to Star Destroyer Steel 
+Talon's tractor beam range."
+ There was no answer; nothing but 
+the slight hiss of the carrier.
+ "Shuttle craft, do you copy my 
+transmission?"
+ Another pause. Then: "Yeah, we 
+hear you, rocketjock. We aren't of a 
+mind to do that."
+ Vil looked at his control panel. They 
+were two minutes away from 
+Minimum Safe Distance?the point 
+far enough from Despayre where they 
+could safely attempt the jump to 
+lightspeed. Jump too close to a 
+planet's gravity well and the shift 
+would tear the vessel apart. If the guy 
+he was talking to had enough skill to 
+fly the shuttle, he'd know that. His 
+control panel would tell him when he 
+reached MSD, and then it would be 
+over. Lieutenant Dance would have 
+failed a mission, for the first time.
+ Never happen, he thought. "Turn it 
+around, or we will fire," he said.
+ "You'd do that? Just blow us apart? 
+Essentially murder fifteen men?and 
+two women? One of them is old 
+enough to be your granny. You can 
+live with that ?"
+ He was stalling for time, Vil knew. 
+The beings on that shuttle were bad 
+enough to have been sent to the 
+galaxy's number one prison planet, 
+and the Imperial courts didn't bother 
+to do that with petty thieves or traffic 
+violators. His granny hadn't robbed 
+any banks or killed anybody. Not that 
+he knew of, anyway.
+ "Shuttle pilot, I say again?"
+ Vil saw the port turret on the shuttle 
+open up. He cut across the craft's 
+flight path, angling away aft as the 
+starboard gun began firing. He hit his 
+thrusters full, coming up in a half loop 
+and twist away from the incoming 
+laserfire.
+ Even a good gunner couldn't have 
+spiked him at this angle, and these 
+guys weren't anywhere close to good 
+enough. Still, the pulsed incandescent 
+beams came close.
+ "Lieutenant?!" That from Benjo.
+ "Hold your position, Alpha Squad, 
+there's no problem here." Cool and 
+calm. Like discussing what they 
+might be having for dinner.
+ He zipped Black-11 out of range.
+ The clock was running down. Less 
+than a minute to MSD.
+ "Last chance, shuttle. Turn it around. 
+Now."
+ In answer, the pilot pulled the shuttle 
+topward so his gunners could get a 
+better angle. They started shooting 
+again.
+ The shots were wild, but there was 
+always a chance a stray beam could 
+hit you, even by accident. And 
+wouldn't that be a glorious end to an 
+unblemished career? To be killed by a 
+convict on a milking shuttle?
+ Enough of this. Vil hit the drive 
+controls and damped the thrust to 
+zero. Then he pushed the throttles to 
+full, angled to port and topside, did a 
+roll and loop, and came around, 
+driving at the shuttle amidships.
+ He pressed the fire-control button.
+ Black-11 spat twin laser bolts from 
+the low-temp tips?blip-blip, blip-
+blip, blip-blip?
+ Vil Dance was a better-than-average 
+shooter. The bolts ripped into the 
+shuttle, chewed it up, and as he 
+overflew and peeled away to 
+starboard-downside, the Lambda blew 
+apart, shattering into at least half a 
+dozen large pieces and hundreds of 
+smaller ones amid a cloud of flash-
+frozen air, liquid, and debris.
+ And pin wheeling bodies.
+ Vil switched back to tac-five. 
+"Anyell, Lude, move in and check for 
+survivors." He kept his voice calm, 
+emotionless, no big deal. His pulse 
+was racing, but they didn't have to 
+know that. Let them think his heart 
+pumped liquid oxy.
+ "None of 'em were wearing suits, 
+Lieutenant," Lude said a moment 
+later. "No survivors. Too bad about 
+that brand-new ship."
+ "Good hit, Vil," Benjo said. 
+"Congratulations."
+ Vil felt a warm glow of satisfaction. 
+It had been a good hit. And they had 
+been firing at him, so it wasn't like 
+shooting yorks in a canister. It had 
+been a righteous response.
+ He switched back to the main op-
+chan. "Fighter Control, this is ST-
+One-One, Lieutenant Vil Dance of 
+TIE fighter Alpha Squadron. Mission 
+accomplished. You might want to 
+send out a recovery vessel to pick up 
+the pieces."
+ "Copy, ST-One-One," said Captain 
+Exeter. "Good job."
+ "Thank you, sir. Let's return to base, 
+Alpha Squad."
+ Vil smiled as he waited for his team 
+to form up again. This was the best 
+job in the galaxy, being a fighter pilot. 
+He couldn't imagine a better one. He 
+was young, not even twenty-five yet, 
+and already a legend among his 
+peers?and among the ladies as well. 
+Life was good.
+ As they started for the Destroyer, Vil 
+saw in the distance the frame of the 
+gigantic battle station that was being 
+built in planetary orbit. They were a 
+hundred kilometers away from the 
+structure, and it was still skeletal, its 
+interior construction only just begun, 
+but even so, it looked impossibly huge 
+at this distance. It was to be the size 
+of a small moon when it was finished, 
+dwarfing the largest Star Destroyer.
+ Incredible to think about. And if he 
+kept racking up missions like the one 
+just completed, there was a very good 
+chance that he would be assigned as 
+unit commander on board the new 
+station.
+ He led his squad back to the 
+equatorial launching bay. Looking at 
+the awe-inspiring base, he felt a surge 
+of pride in the Empire, and a feeling 
+of gratitude at being a part of the 
+Tarkin Doctrine's glorious mission. 
+There was no official appellation or 
+designation, other than battle station, 
+that he knew of for the Grand Moff's 
+vision, but there was a name for it that 
+everybody he knew, officers and 
+enlisted alike, used.
+ They called it the Death Star.
+
+
+
+2
+
+
+
+
+LQ FLAGSHIP HAVELON, IN 
+GEOSYNCHRONOUS ORBIT ABOVE 
+PLANET DESPAYRE
+ 
+ Wilhuff Tarkin?now Grand Moff 
+Tarkin, with that exalted promotion 
+being due to this very project?stood 
+before the deck-to-ceiling 
+transparisteel viewport on the 
+observation deck, looked out at his 
+creation, and found it good.
+ He was building a world.
+ True, as worlds went, what was 
+taking form three hundred kilometers 
+from his flagship would not be quite 
+as imposing as Imperial Center, say, 
+or Alderaan. But when finished, it 
+would be larger than two of the 
+satellites of his own planet Eriadu, 
+and it would be home to well over a 
+million beings.
+ More to the point, it would hold 
+countless worlds under its?his? 
+thrall.
+ It had been nearly three decades 
+since Raith Sienar had first made 
+Tarkin privy to the concept of the 
+"battle station planetoid," and it had 
+taken almost a decade to get the idea 
+through the snarls of red tape and 
+bring the Geonosians on board to 
+improve and implement the designs. 
+The project had been known by 
+various code names?such as the 
+Great Weapon?and the original 
+plans had been much improved by the 
+Geonosian leader Poggle the Lesser. 
+But it had taken years for the concept 
+to be stewarded through the tortuous 
+maze of government bureaucracy 
+before construction was finally 
+ordered to begin. There were still 
+flaws in the original plans, but many 
+of them had been addressed during 
+the building of the proof-of-concept 
+prototype in the Maw Installation, and 
+others were being corrected as they 
+were uncovered. The greatest minds 
+in the galaxy had been recruited or 
+drafted to lend their expertise to the 
+building of this ultimate weapon. The 
+brilliant Dr. Ohran Keldor, the mad 
+weapons master Umak Leth, the 
+young but nevertheless laser-sharp 
+Omwati prodigy Qwi Xux, the 
+Twi'lek administrator Tol Sivron?
+they, and many, many others of like 
+stripe, had been investigated and 
+approved by Tarkin himself. All were 
+as good as the Empire could provide, 
+willing or unwilling.
+ In addition, he had conscripted a 
+veritable army of enslaved Wookiees, 
+plus tens of thousands of convicts 
+from the steaming jungles of the 
+prison planet Despayre, and a plethora 
+of construction droids, the latter the 
+largest such collection of automata 
+ever assembled. All of them, organic 
+and artificial, now worked around the 
+chrono, with but one goal in mind: the 
+culmination of his vision.
+ The project code-named Death Star.
+ Tarkin pursed his lips slightly. There 
+was a taint of melodrama to the name 
+that he didn't care for, but no matter. 
+The words, along with the reality of 
+the battle station itself, would amply 
+convey its terrifying purpose.
+ The Horuz system had been 
+scavenged for raw material; asteroids 
+and comets were being harvested 
+from both the inner and outer belts 
+and broken into components of 
+oxygen, hydrogen, iron, nickel, and 
+other elements; enormous bulk 
+transports, ore haulers, tankers, and 
+cargo craft had been gutted and 
+reconfigured as orbiting laboratories, 
+factories, and housing, all filled with 
+workers producing fiber optics, 
+electronics, and thousands of other 
+technological instruments and 
+construction materials. After nearly 
+two decades of frustration, of false 
+starts, union disputes, administrative 
+procedure, and political maneuvering, 
+the construction of the Empire's 
+doomsday device was at last 
+irrevocably under way.
+ Certainly there had been problems. 
+Tarkin had been surprised and 
+annoyed to find that Raith Sienar's 
+original designs?the very same ones 
+he himself had presented to Palpatine, 
+and which the Emperor had rejected 
+more than ten years earlier?had been 
+the basis for the plans
+ Palpatine had finally given him to 
+implement. Well, perhaps it wasn't so 
+surprising, given the vagaries of war 
+and politics. Nothing that went into 
+the Empire's vaults was ever 
+completely lost, although sometimes 
+things were mislaid. And concepts 
+rejected when they came from 
+someone else often looked better 
+when rethought as one's own. Even 
+the Emperor, it seemed, was not 
+immune to that particular hubris.
+ After a prototype design had been 
+built and refined in the heart of the 
+swarm of black holes known as the 
+Maw cluster, Tarkin and Bevel 
+Lemelisk, the head of design, had had 
+the Death Star project moved several 
+times to avoid possible Rebel 
+sabotage attempts, ultimately 
+relocating it to the Horuz system for 
+added security. Of course, on a 
+project this huge, there was little hope 
+that it could be kept secret forever?
+but knowing that it existed, even 
+knowing where it was being built, was 
+not the same as being able to do 
+anything about it. Admiral Daala, 
+commanding four Imperial-class Star 
+Destroyers and countless smaller 
+attack craft, kept constant vigilance 
+from her station within the Maw; any 
+unauthorized ships that entered the 
+region would not leave to carry tales 
+elsewhere.
+ Tarkin stared at the incomplete 
+spheroid, floating serenely in the void, 
+eerily backlit by the solar glow 
+reflected from Despayre. It wasn't 
+even a complete skeleton yet. When 
+done, however, the battle station 
+would be 160 kilometers in diameter. 
+There would be twenty-four zones, 
+twelve in each hemisphere. Every 
+zone, called a sprawl, would have its 
+own food replicators, hangar bays, 
+hydroponics, detention blocks, 
+medical centers, armories, command 
+centers, and every other facility 
+needed to provide service for any 
+mission deemed necessary. In an 
+emergency, auxiliary command 
+centers located in each sprawl 
+provided full weapons and 
+maneuverability control, for a 
+redundancy depth of twice a dozen. 
+When fully operational, the battle 
+station would be the most powerful 
+force in the galaxy, by far.
+ And it was Tarkin's to command.
+ As the commander of such a vessel, 
+he would, perforce, be the most 
+powerful man in the galaxy. The 
+thought had certainly occurred to him 
+that not even the Emperor could stand 
+before him, did he choose to 
+challenge Palpatine's rule. Then again, 
+Tarkin knew the Emperor. If their 
+positions were reversed, he knew that 
+there was no possible way he would 
+sanction anyone having such power?
+not without some kind of fail-safe. 
+Was a destruct device already built 
+into the station somewhere, with the 
+red button safely installed in 
+Palpatine's chambers? Was some 
+equivalent of Order 66 known only to 
+certain onboard officers and troops? 
+Or was it something even more 
+devious? Tarkin was certain the 
+Emperor had some kind of insurance 
+against any theoretical rebellion. Not 
+that the Grand Moff intended such a 
+course; he wasn't a foolish or suicidal 
+man.
+ Aside from the fearsome, world-
+destroying "superlaser" itself?which 
+was based upon the Hammertong 
+Project and used a power source 
+secretly taken by the 501st 
+Stormtrooper Legion on Mygeeto 
+during the Clone Wars?the station 
+would mount a complement of craft, 
+both space and ground, equal to a 
+large planetside base: four capital 
+ships, a hundred TIE/In starfighters, 
+plus assault shuttles, blastboats, drop 
+ships, support craft, and land vehicles, 
+all ultimately totaling in the tens of 
+thousands. It would have an 
+operational crew numbering more 
+than a quarter million, including 
+nearly sixty thousand gunners alone. 
+The vessel could easily transport more 
+than half a million fully outfitted 
+troops, and the support staff?pilots, 
+crew, and other workers?would be 
+half that number. The logistics of it all 
+were staggering. Oh, it would be a 
+fearsome monster indeed. But a 
+monster tamed and under Tarkin's 
+control; a monster sheathed in 
+quadanium steel plating, invulnerable 
+and impervious.
+ Well, almost invulnerable. Lemelisk 
+had disappointed him in that instance. 
+The greatest challenge in designing 
+the battle station, he had said, was not 
+creating a beam cannon big enough to 
+destroy a planet, nor was it building a 
+moon-sized station that would be 
+driven by a Class Three hyperdrive. 

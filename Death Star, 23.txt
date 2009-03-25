@@ -1,0 +1,816 @@
+Jedi simply . . . disappeared, leaving 
+nothing behind but his robes and 
+cloak.
+ Tarkin stared at the image, his jaw 
+dropping in disbelief. This was 
+impossible?there had to be some 
+trick at work. Nobody could survive 
+decapitation by a lightsaber!
+ "Lord Vader is on his way in," came 
+a voice from the intercom.
+ Tarkin nodded. He switched off the 
+recording and changed to an external 
+view of the starfield, which he stood 
+regarding. After a moment, Vader 
+entered the room and came to stand 
+next to him.
+ "Are they away?" Tarkin asked.
+ "They have just made the jump into 
+hyperspace."
+ "You're sure the homing beacon is 
+secure aboard their ship? I'm taking 
+an awful risk, Vader. This had better 
+work."
+ It was indeed a risk, letting the 
+Princess and her band of rogues 
+"escape." If it didn't work, they would 
+not only lose a high-level prisoner and 
+a couple of Rebel spies?they would 
+lose the Death Star plans as well. And 
+even though Tarkin tended to agree 
+with Motti that having the plans 
+wouldn't really do the Alliance any 
+good now that the battle station was 
+operational, he wasn't interested in 
+taking any risks with the ultimate 
+weapon. But if the escapees fled to 
+the main Rebel fortress, as Vader was 
+certain they would, the war would be 
+over sooner than expected.
+ Much sooner.
+ The plans, after all, would hardly 
+survive the destruction of whatever 
+planet they came to rest upon.
+ The Death Star was at last 
+operational, and there was no place in 
+the galaxy where a beat-up Corellian 
+freighter could run that they could not 
+follow.
+
+
+
+LIBRARY AND ARCHIVES, DEATH STAR
+ 
+ Making good on his promise that he 
+could retrieve classified information 
+and use it was proving to be 
+somewhat harder than Atour Riten 
+had anticipated. While he had certain 
+codes that would allow him to access 
+restricted files, the nuts-and-bolts 
+operation of a vessel as large as this 
+one was not a simple matter. There 
+were so many subsystems, so many 
+backups and redundant programs, that 
+winnowing out the precise details was 
+time consuming in the extreme. Were 
+it not for P-RC3, he would never have 
+been able to manage it.
+ "What do we have so far?" he asked 
+the droid. "And please skip the part 
+where you warn me how dangerous it 
+is."
+ P-RC3 said, "I have accessed the 
+shuttle-craft codes. The vessel most 
+likely to be of use is the E-Two-Tee 
+Medical Shuttle, a small, fast 
+ambulance craft. It is unarmed and 
+clearly marked as a noncombat 
+medical transport, and under normal 
+circumstances neither the Rebel 
+Alliance nor the Empire will fire on it. 
+It also has limited hyperdrive 
+capability. It generally carries a crew 
+of six, with facilities to transport and 
+maintain twice that many human-
+sized patients."
+ "Good, good, that gives us plenty of 
+room. What about the tractor beam?"
+ "Recent misuse of tractor beam 
+controls has resulted in increased 
+security. However, surreptitious 
+programming using an ouroboros 
+routine will, with a proper activation 
+signal, result in a temporary overload 
+to the beam projector's circuit breaker 
+in the sector from which the ship 
+would, in theory, be departing. This 
+will keep that particular projector 
+offline for approximately thirty 
+seconds before the automatic reset. A 
+return to full power will require 
+fifteen seconds more. A pilot of 
+sufficient skill should be able to 
+accelerate far enough during that time 
+to be out of range; however, if he 
+ventures into the path of any of the 
+other sectors' beams, they could 
+capture the ship."
+ "Excellent."
+ "I have not, however, been able to 
+bypass bay door controls for egress. 
+Those systems are not yet linked to 
+the main computer."
+ "That's no good," Atour said. "If we 
+can't get the shuttle launched, the rest 
+doesn't matter."
+ "So it would seem."
+ Atour considered the problem. 
+"What is the procedure for standard 
+emergency medical transport launch?"
+ "The onboard crew sends a copy of 
+its orders to Bay Door Control and 
+requests permission to depart. The 
+flight plan is checked via corn-link to 
+Flight Control and, if valid, the officer 
+in charge gives the order to his 
+technicians. A force field sufficient to 
+retain atmosphere but permeable 
+enough to allow vessels to penetrate is 
+produced. The vessel exits, the doors 
+are closed and sealed, the field is shut 
+off."
+ Atour nodded. "So the only 
+reasonable solution here is to have the 
+doors opened by the BDC crew."
+ "Yes."
+ "Hmm. Can you produce a bogus 
+flight plan and order for 
+transmission?"
+ "I can, but I cannot insert that plan 
+into the Flight Control systems,
+ which are independent of the main 
+computer. They will have no record of 
+them."
+ "But you can jam or redirect 
+communications if you have the op-
+chan frequencies?"
+ "Certainly, sir. Even you could do 
+that."
+ Atour gave him a look. "So if the 
+door crew sends a signal to the Flight 
+Control crew and instead of getting to 
+them it goes somewhere else, then 
+whoever gets that call could verify the 
+orders?"
+ "In theory," the droid said.
+ "Well, then that problem is solved. 
+You'll just have it set up so that that 
+call comes here."
+ The droid turned to regard him.
+ "Oh, don't look at me like that?I 
+won't be here. You will take the call 
+and verify it."
+ "That would be illegal, sir. I cannot 
+knowingly violate Imperial law."
+ "But if I am on that shuttle and you 
+don't confirm the order, then I'll be 
+arrested, and possibly even executed."
+ "In that case, my primary 
+programming, which is to protect you 
+from harm, would allow such illegal 
+activity."
+ Atour slapped P-RC3 on the back. 
+"Good man. I knew I could count on 
+you."
+ "Yes, sir."
+ "Set it up, Persee. I have a feeling 
+we won't have a lot of time. Once this 
+station comes out of hyperspace, 
+things will get very active around 
+here."
+ "Right away, sir."
+ "I'm going to pay a visit to the local 
+cantina now. Let me know when you 
+get everything done."
+
+
+
+CONFERENCE ROOM, COMMAND 
+CENTER, DEATH STAR
+ 
+ Vader was still attempting to come 
+to terms with the disappearance of 
+Obi-Wan. His moment of triumph as 
+he'd cut the old man down had been 
+short-lived. How ironic that he'd been 
+constantly telling non-believers like 
+Tarkin not to underestimate the power 
+of the Force, and now he'd witnessed 
+an event that made him realize he was 
+guilty of just such heresy himself.
+ His Master had never spoken of Jedi 
+just vanishing into nothingness. This 
+bespoke a power that Vader had not 
+yet seen, even in the dark side. But 
+surely it must exist there. Perhaps it 
+had something to do with the 
+darksome hints that his Master had 
+dropped, from time to time, about 
+Darth Plagueis, the Sith Lord who had 
+been Darth Sidious's Master. Plagueis 
+had been, according to the Emperor, 
+obsessed with the preservation of the 
+immaterial ego after the physical 
+death of the body. Vader determined 
+to ask his Master about it as soon as 
+this distracting foolishness with the 
+Rebels was?
+ The intercom beeped. Tarkin 
+answered it. "Yes?"
+ "We are approaching the planet 
+Yavin," a tech said. "The Rebel base 
+is on a moon on the far side. We are 
+preparing to orbit the planet."
+ Tarkin smiled as he disconnected 
+and looked at Vader. "Well, Lord 
+Vader, it seems you were correct. We 
+are almost in position to break the 
+back of the Alliance. I am sure the 
+Emperor will be pleased."
+ "If the station performs as it is 
+supposed to," Vader said. He believed 
+that it would, but Tarkin seemed a bit 
+too smug and sure of himself. It 
+served him to keep the man slightly 
+on the defensive.
+ "Oh, it will," Tarkin said. "I 
+guarantee it will."
+
+
+66
+
+
+
+
+THE HARD HEART CANTINA, DEATH 
+STAR
+ 
+ Memah had closed the cantina again, 
+this time ostensibly to repair a 
+malfunctioning cooler unit.
+ Ratua came back to the bar, waving 
+a small electronic device. "Sniffer 
+says we're still clean. No listening 
+devices have been brought in since we 
+got here."
+ "That's good," Rodo said, "because 
+if we weren't involved in a conspiracy 
+that would get us all shot before, we 
+sure are now."
+ Memah looked around at the others: 
+Riten, the instigator; Dance, the TIE 
+pilot; Kaarz, the architect; Stihl, the 
+guard; Divini, the doctor; Rodo, 
+Ratua, and herself. Eight of them, 
+against the might of the Empire. Not 
+very good odds, Memah thought. One 
+misstep and they were all dead.
+ "Any questions?" Riten asked.
+ "It seems too easy," Rodo said.
+ "Not really," Nova said. "The station 
+is designed to withstand massive 
+attack from without, but nobody 
+worries too much about security 
+within. The place is full of 
+stormtroopers, guards, army and navy 
+personnel, even a few bounty hunters 
+thrown in. Plus, the only ways in or 
+out are well protected. And if you do 
+manage to get out, there are enough 
+guns to turn you into subatomic 
+particles, and twenty-four tractor 
+beam batteries to hold you still while 
+they do it."
+ There was a small jolt. Everyone 
+reacted uneasily. "What now?" Uli 
+asked.
+ "Just came out of hyperspace," Vil 
+observed. "Wherever we were going, 
+we're probably there."
+ "The Yavin system," Riten said. 
+"Three planets, the only one of which 
+concerns us being Yavin Prime. A gas 
+giant with a number of habitable 
+moons."
+ "And why is this important?" Ratua 
+asked.
+ "Remember the Rebel freighter that 
+'escaped'? The one with the doc's 
+girlfriend on it?" Nova asked.
+ Uli shook his head. "Not my 
+girlfriend, alas. Although she made 
+Atour's point about not being part of 
+the problem well enough to convince 
+me to join this raggedy crew."
+ "Yeah, well, the scut in the guard 
+shack is that the ship was bugged and 
+let go so we could follow it. Tarkin 
+thinks there's a Rebel base here 
+somewhere."
+ "Bad for them if it's so," Rodo said.
+ "But perhaps not for us," Riten said. 
+"If the navy is busy fighting off Rebel 
+attack ships, it might make it easier 
+for us to escape."
+ Nova said, "Nothing the Rebels have 
+can get close enough to scratch the 
+finish on the Death Star?anything 
+bigger than a flghter'll get blown apart 
+a thousand klicks out."
+ "Still, during a battle, ambulance 
+ships sometimes get dispatched 
+without causing undue concern."
+ Rodo shook his head. "I hope you 
+and your droid got all this right," he 
+said to the archivist. "Otherwise even 
+an ambulance won't do us much 
+good."
+ Teela said, "So what do we do 
+now?"
+ "Go on back to your routine, keep 
+your heads down, and don't cause any 
+fuss. Set your personal comlink to the 
+library's data channel?that's five-
+five-seven-point-nine. As soon as 
+everything is in place, I'll call, and 
+with any luck, that call will be very 
+soon.
+ "You'll have thirty minutes to make 
+it to the transport. If everything goes 
+well, we'll be in deep space a couple 
+of minutes after that?and free."
+ "If everything goes well," Vil said. 
+His voice was dry.
+
+
+
+LIBRARY AND ARCHIVES, DEATH STAR
+ 
+ Two black-clad security guards were 
+waiting, flanking P-RC3, when Atour 
+arrived.
+ Atour felt his insides freeze. "What's 
+going on here?"
+ "Is this droid assigned to you, sir?"
+ Stay calm. "Yes."
+ "Apparently it is malfunctioning, 
+Commander. Our computer security 
+monitor detected it attempting to 
+access restricted data."
+ "This must be a mistake. This droid 
+has been performing in an exemplary 
+manner. I couldn't be happier with?"
+ "That may be, sir, but our orders are 
+to take the droid into custody and 
+arrange for a memory scan."
+ Oh, dear. I'm sorry, Persee.
+ He tried, knowing that it was 
+fruitless. "That may disrupt its ability 
+to function. And it is a most valuable 
+assistant."
+ "I'm sorry, sir, but we have our 
+orders," the guard said. "Come 
+along," he added to the droid.
+ P-RC3 said, "I'm sure it's a simple 
+mistake, Commander Riten, and a 
+scan will straighten it all out. Oh, by 
+the way, I did finish those filing 
+chores you asked me to do. I hope 
+they will be of assistance to you."
+ "Good luck, Persee."
+ "And to you, sir."
+ The guards led the droid away.
+ Atour sighed in regret. Pretty soon 
+P-RC3 was going to have a mental 
+meltdown. Atour felt bad about it. 
+Yes, the droid could be repro-
+grammed, but it wouldn't be the same. 
+Sad. He had liked P-RC3, more than 
+he did most people.
+ But there was a bigger problem to 
+consider. If P-RC3 wasn't here to take 
+the call to verify the medical 
+transport's right to leave the station, it 
+wouldn't be going anywhere. And P-
+RC3 was gone.
+ It seemed that somebody else would 
+have to be here to take that call.
+
+
+
+SUPERLASER FIRE CONTROL, DEATH 
+STAR
+ 
+ Ready to crank it up, Chief?" Tenn 
+Graneet looked steadily at his CO. 
+"Absolutely, sir," he said.
+ It was a lie, of course. He was not 
+ready. Not after Alderaan. The 
+destruction of the prison planet had 
+been gut wrenching enough, even 
+though he'd known the place had been 
+home to killers and spice dealers and 
+other scum of the galaxy. He 
+reminded himself of that often, trying 
+to find comfort in it, trying not to 
+think about the thousands of guards 
+and other personnel stationed on 
+Despayre, some of whom had been 
+his friends, not to mention the 
+considerable number who had been 
+wrongfully convicted and exiled 
+there, all of whom had also died in 
+fire because he had thrown the lever. 
+Try as he might, he couldn't justify 
+their massacre simply as collateral 
+damage.
+ And even if he could, there was still 
+Alderaan. That hadn't been collateral 
+damage. That had been genocide on a 
+planetary scale, an entire world wiped 
+away, and for what? Why did all 
+those millions of people have to die?
+ As an object lesson. To show the 
+galaxy that the Empire meant 
+business, that Palpatine was not to be 
+trifled with. To make sure that 
+Tarkin's fear doctrine was taken 
+seriously.
+ And to punish?no, to torture?a 
+young noblewoman who was part of 
+the Rebellion.
+ He'd heard the story from more than 
+one source. There had been no Rebel 
+force hidden on Alderaan?if he 
+could have believed there had been, it 
+might have helped. But there had been 
+guards there when Tarkin had told 
+Motti to drop the hammer. They had 
+heard the truth.
+ And it had been Tenn who'd pulled 
+the trigger. He had sent the beam that 
+killed at least a billion people, maybe 
+more; he didn't know what the 
+planetary population had been. No 
+doubt there was an up-to-date census 
+in some datafile somewhere, but he 
+wasn't going looking for it. He didn't 
+want to know the figures. The bottom 
+line was that he had done it.
+ That knowledge was worse than gut 
+wrenching. Much worse. Tenn hadn't 
+had a peaceful night's sleep since he'd 
+done it, and he didn't see how he ever 
+could again.
+ "Scut is we're on the trail of the 
+Rebels," his CO said. "Just wanted to 
+give you a head's-up. Stay frosty." He 
+turned and descended the steep 
+stairs?almost a ladder?back down 
+to the deck, leaving Tenn alone in the 
+control room.
+ Alone, he thought. If only. Tenn 
+knew he would never be alone again.
+ Yes, he was a good soldier, a cog in 
+the well-oiled machine that was the 
+Empire. He followed orders. He did 
+his job. But how could a man live 
+with the knowledge that he, 
+personally, had dropped the curtain on 
+more people at once than anybody 
+had ever done before?
+ How could he live with all those 
+ghosts?
+ He, Master Chief Petty Officer Tenn 
+Graneet, was the biggest mass 
+murderer in galactic history. That was 
+something to tell those hypothetical 
+great-grandkids about, wasn't it?
+ And now he was about to add still 
+more to the total. Hey, why not? What 
+was a few hundred thousand, or even 
+a million more, when you had already 
+scragged the populations of two 
+planets?
+ He didn't know if he could do it 
+again. When the moment came to 
+destroy the Rebel base, he wasn't sure 
+he could.
+ He knew he didn't want to?of that 
+he was certain.
+ But if he didn't, somebody else 
+would, and he'd get tossed into 
+detention for disobeying an order. 
+Then he'd have plenty of time on his 
+hands to think about that moment 
+when he had put every vile dictator or 
+madman who had ever committed 
+genocide to shame. General Grievous, 
+the Butcher of Montellian Serat, 
+Grand Admiral Ishin Il-Raz . . . 
+pikers, all of them. None of them had 
+ever slain so many, so suddenly.
+ So easily . . .
+ There was an old proverb his 
+grandfather had taught him when he'd 
+been a boy: Take care what you wish 
+for, Tenn?you might get it.
+ Now he understood exactly what that 
+meant. He had wanted to fire the big 
+gun, and he had gotten to do just that. 
+The only man in the galaxy who had 
+shot it for real, at real targets, and 
+look what it had bought him:
+ Misery beyond his ugliest dreams.
+ Graneet, the planet killer. Two up, 
+two down.
+ People were already looking at him 
+funny. Someday this war would be 
+over, and what he had done couldn't 
+be kept a secret. Alderaan had been 
+destroyed, and somebody had done it. 
+The citizens of the Empire? or 
+maybe even the Republic once again, 
+though he didn't see how the Alliance 
+stood a chance, now?they'd want to 
+pore over the details of the action. 
+And once they did, they'd find him. 
+They'd hold him up to the light and 
+decry his hideous aspect.
+ Graneet, the planet killer. Unique 
+among men. Got a pest problem? Call 
+the chief?guaranteed to get rid of 
+'em all.
+ He wouldn't be able to walk on a 
+street on any civilized planet in the 
+galaxy; people wouldn't be able to 
+abide his presence.
+ Nor would he blame them.
+ He couldn't stop thinking about it. 
+He didn't believe he would ever be 
+able to stop thinking about it. The 
+dead would haunt him, forever.
+ How could a man live with that?
+
+
+67
+
+
+
+
+COMMAND CENTER, DEATH STAR
+ 
+ Vader and Tarkin watched the 
+schematic representation of Yavin 
+Prime glowing in the air. The smaller 
+image of the moon Yavin 4 behind the 
+translucent gas giant moved in small 
+increments toward the outer 
+perimeter.
+ The voice from the comm said, 
+"Orbiting the planet at maximum 
+velocity. The moon with the Rebel 
+base will be in range in thirty 
+minutes."
+ The countdown flashed on the 
+screen.
+ Vader had thought long and hard 
+about his duel with Obi-Wan, and had 
+come to a somewhat satisfying 
+conclusion: whatever had happened to 
+his body, his old teacher was no more. 
+That was what mattered. Wherever 
+his form had gone, whatever it had 
+become, he would not be seen in this 
+galaxy again. That was more 
+important than anything else.
+ To Tarkin, he said, "This will be a 
+day long remembered. It has seen the 
+end of Kenobi. It will soon see the 
+end of the Rebellion."
+ Tarkin glanced at Vader. The latter 
+did not need the Force to sense the 
+Grand Moff's pride?it shone from 
+his face. The culmination of all his 
+decades of work was about to take 
+place. This had been his project from 
+the beginning, and it was about to 
+produce the result he had always said 
+it would. How could he not feel 
+proud?
+ "Sir," came the voice from the 
+intercom, "we have picked up small 
+Rebel ships leaving the moon and 
+heading our way."
+ Tarkin smiled, a cruel expression.
+ "Shall we scramble TIEs to 
+intercept?" the voice asked.
+ "That won't be necessary," Tarkin 
+said into the intercom. "I believe our 
+gunners can use the practice."
+ He turned back to Vader. "It will be 
+like swatting flies."
+
+
+
+LIBRARY AND ARCHIVES, DEATH STAR
+
+ A tour felt a faint vibration in the 
+deck beneath his chair. Whatever it 
+was, he hoped fervently that it 
+wouldn't interfere with his work. He 
+was almost finished with the final 
+stage of the plan. He concentrated on 
+programming, the monitor's flickering 
+light painting his face with pallor. 
+Almost there . . . almost. . .
+ Ah. He leaned back in satisfaction, 
+feeling stiff back muscles protest. He 
+had found the link in the comm 
+system that P-RC3 had built for him, 
+and had locked it down. A dedicated 
+pipe for communications from the 
+Door Control room.
+ He picked up his comlink.
+
+
+
+TIE FIGHTER PILOT BARRACKS, DEATH 
+STAR
+ 
+ Vil Dance felt the vibration through 
+his boots as he passed the watch 
+commander. "What's up, 
+Commander?"
+ "That's what it feels like when the 
+guns are locking and loading full 
+power charges. We got company 
+come to call."
+ "We scrambling?"
+ "Negative. I guess they think we 
+hogged all the fun last time? they're 
+letting the gunners deal with this. Too 
+bad."
+ Vil's comlink chirped. "Oops, sorry, 
+need to take that. New girlfriend is 
+supposed to be cooking me dinner."
+ The watch commander grinned and 
+made a kissing sound.
+ Vil grinned back. "I hope so," he 
+said. He took a few steps away, pulled 
+his comlink from his belt. "Yeah?"
+ "Go," Riten's voice said. "A little 
+under thirty minutes."
+ "Copy. See you there."
+ There was a short pause. "Right."
+ Vil's mouth v/as suddenly dry. This 
+was it. If he was going to change his 
+mind, this was the time. He could still 
+back out, stay the best pilot in the 
+fleet, on the fast track for promotion.
+ No. He remembered blowing up that 
+shuttle of escaped prisoners. He 
+remembered the nightmares he'd had 
+for weeks afterward. He remembered 
+the slaughter of the attacking Rebel 
+fighters. And of course, he 
+remembered Despayre and Alderaan.
+ He didn't want to be on the side that 
+performed such atrocities.
+ He was going.
+
+
+
+THE HARD HEART CANTINA, DEATH 
+STAR
+ 
+ Ratua's comm buzzed. He looked at 
+Memah. Nobody had the number but 
+her?and Riten, the archivist. She 
+looked back at him, her lovely teal 
+face expressionless. He answered it. 
+"Yeah?" "Go."
+ "I have Memah and Rodo right 
+here." "Then I won't call them. Get to 
+the rendezvous point." "On our way."
+
+
+
+ELECTRONICS CORRIDOR 7B, DEATH 
+STAR
+ 
+ Nova was standing guard on a 
+restricted corridor when his comlink 
+cheeped. Since he was in duty black 
+instead of whites, he was able to 
+answer it without routing it through a 
+helmet comm. "Stihl."
+ It was the archivist. "Time to take a 
+walk, Sergeant."
+ "Copy."
+ Nova left his post and started toward 
+the turbolifts.
+ "What's up, Sarge?" the guard at the 
+lifts asked.
+ "Sudden call of nature," he said. 
+"Those lamitos at the mess hall last 
+night."
+ The guard laughed. "I hear that. I'll 
+keep an eye on your hall till you get 
+back."
+ "Thanks."
+
+
+
+COMMAND CENTER CORRIDOR
+ 
+ As Vader strode down the hall, one 
+of his own crew officers hurriedly 
+approached.
+ "We count thirty Rebel ships, Lord 
+Vader. But they're so small, they're 
+avoiding our turbolasers."
+ Vader's burned face twisted into its 
+unseen, stiff smile. Once again, 
+Tarkin had been overconfident, so 
+certain his beloved monster was proof 
+against anything. A fly could sting 
+you if you missed swatting it. He had 
+his own personal wing of TIE fighters 
+on board. He would lead them out, 
+and they would deal with what Tarkin 
+could not.
+ "We'll have to destroy them ship-to-
+ship. Get the crews to their fighters." 
+His officer knew the command 
+referred only to Vader's elite fliers. A 
+squadron would be more than enough.
+
+
+68
+
+
+
+
+ARCHITECTURAL OFFICES, DEATH 
+STAR
+ 
+ Somebody with access or clout or 
+both had installed a first-rate holo-
+projector in the conference room that 
+had access to external cams, and a 
+small crowd had gathered around the 
+images flashing across the screen.
+ Teela walked into the room. She said 
+to one of the drafting droids, "What's 
+going on?"
+ "The station is apparently under 
+attack by Rebel fighters," the droid 
+said. "And the station's gunners seem 
+to be having little success hitting 
+them."
+ She nodded. Of course. The 
+turbolasers were designed and timed 
+to track larger targets. She had seen 
+the specs. "Why haven't they 
+scrambled TIE fighters? That's what 
+they're for, isn't it?"
+ The droid said, "That is beyond my 
+capability to comment on. I do 
+drawings, not military tactics."
+ As she watched, a pair of the 
+attacking fighters, both X-wings, 
+dived into one of the surface trenches, 
+firing all the while.
+ One of the architects laughed. 
+"They're wasting their ammunition. 
+Their guns're too small to penetrate 
+very far into the armor."
+ Teela frowned. That trench looked 
+familiar . . .
+ She stepped out of the conference 
+room and moved to her office. She 
+tapped her computer console, waved 
+her hand over the reader, and brought 
+up a schematic.
+ Why would those fighters think they 
+had a snowflake's chance in a 
+supernova against the Death Star? If 
+they had the plans, like she'd heard, 
+they'd know the ship could withstand 
+anything they could possibly fire at it 
+without sustaining major structural 
+damage?they could shoot themselves 
+dry and whatever harm they did 
+would be repaired in a couple of shifts 
+as if it had never happened.
+ Something nagged at her, tugging at 
+the edge of her memory. Let's see, 
+that was the trench that led to the 
+main heat exhaust vent, wasn't it? Of 
+course that vent was heavily shielded 
+by both plate and magnetics, so no 
+fighter would be able to penetrate it.
+ So why would they try?if they had 
+the plans, they'd know it would be 
